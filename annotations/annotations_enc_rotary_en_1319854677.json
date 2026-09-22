@@ -1,0 +1,50 @@
+{
+    "ENC/rotary/eng":
+    {"events":
+    [
+    {"event_id": "id_enc_rotary_en_1319854677_1",
+        "event": "Dr Jacob Gould Schurman the American Minister to China accompanied by Mrs Schurman left Peking May 14",
+        "source_file" : "/ENC/rotary/eng/1319854677.txt",
+        "event_location" : "(23,124)",
+        "time_related_expressions": "(May 14, 118, 124)",
+        "event_type": "punctual",
+        "event_time_start": "XXXX-05-14",
+        "event_time_end": "Null",
+        "duration": "Null",
+        "utterance_time" : "1924-05-24"
+    },
+    {"event_id": "id_enc_rotary_en_1319854677_2",
+        "event": "They left for Taian the next evening for sightseeing trip up the sacred mountain of Taishan",
+        "source_file" : "/ENC/rotary/eng/1319854677.txt",
+        "event_location" : "(245,336)",
+        "time_related_expressions": "(the next evening, 265, 281)",
+        "event_type": "punctual",
+        "event_time_start": "the next evening",
+        "event_time_end": "Null",
+        "duration": "Null",
+        "utterance_time" : "1924-05-24"
+    },
+    {"event_id": "id_enc_rotary_en_1319854677_2",
+        "event": "Mrs Schurman will return to Peking while Dr Schurman will proceed to Shang hai returning to Peking about May 20.",
+        "source_file" : "/ENC/rotary/eng/1319854677.txt",
+        "event_location" : "(392, 504)",
+        "time_related_expressions": "(May 20, 497, 503)",
+        "event_type": "punctual",
+        "event_time_start": "XXXX-05-20",
+        "event_time_end": "Null",
+        "duration": "Null",
+        "utterance_time" : "1924-05-24"
+    }
+    ],
+    "event_relations":
+    [
+    {"relation_id": "id_enc_rotary_en_1319854677_1_id_enc_rotary_en_1319854677_2",
+        "event_idA":"id_enc_rotary_en_1319854677_1",
+        "event_idB":"id_enc_rotary_en_1319854677_2",
+        "relation_type" : "before",
+        "time_related_expressions" : "(the next evening, 265, 281)"
+    }
+
+    ]
+    }
+}
