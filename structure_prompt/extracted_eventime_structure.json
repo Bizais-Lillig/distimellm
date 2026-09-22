@@ -8,9 +8,10 @@
         "event_location" : "tuple(int, int), (index of character where the text starts in the file, index of character where it ends)",
         "time_related_expressions": "list[tuple(str, int, int)], a list of (expression, character_start, character_end), the expressions that determine the timing of the event, not relative to any other event"],
         "event_type": "str, one of <punctual, recurring, range> ",
-        "time_start": "time_stamp (including XX if information is unknown) OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null",
-        "time_end": "time_stamp (including XX if information is unknown) OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null",
-        "duration": "(min(unit,value), max(unit,value)) or Null"
+        "event_time_start": "time_stamp (including XX if information is unknown) OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null",
+        "event_time_end": "time_stamp (including XX if information is unknown) OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null",
+        "duration": "(min(unit,value), max(unit,value)) or Null",
+        "utterance_time" : "time_stamp at which the document was written (to be found in metadata)"
     }
     ],
     "event_relations":
