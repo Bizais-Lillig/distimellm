@@ -7,8 +7,8 @@
         "source_files": ["a list fo strings, files where the event appears"],
         "time_related_expressions": ["a list of strings, the expressions that determine the timing of the event, not relative to any other event"],
         "relative_order": "an integer, two events can share the same relative order if the happen at the same moment",
-        "time_start": "time_stamp OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null",
-        "time_end": "time_stamp OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null",
+        "time_start": "(time_stamp OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null,time_stamp OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null)",
+        "time_end": "(time_stamp OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null,time_stamp OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null)",
         "duration": "(min(unit,value), max(unit,value)) or Null"
     }
     ],

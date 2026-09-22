@@ -1,0 +1,74 @@
+{
+    "阿不来提·阿不都热西提":
+    {"events":
+    [
+        {"event_name": "生",
+        "event_id": "abulai_001",
+        "source_files": ["CCMACCM_0001.txt"],
+        "time_related_expressions": ["1942年3月"],
+        "relative_order": "0",
+        "time_start": "(1942-03,1942-03)",
+        "time_end": "Null",
+        "duration": "Null"
+    },
+    {"event_name": "加人中国共产党",
+        "event_id": "abulai_002",
+        "source_files": ["CCMACCM_0001.txt"],
+        "time_related_expressions": ["1960年7月"],
+        "relative_order": "1",
+        "time_start": "1960-07",
+        "time_end": "Null",
+        "duration": "Null"
+    },
+    {"event_name": "设计院技术员、工程师",
+        "event_id": "abulai_003",
+        "source_files": ["CCMACCM_0001.txt"],
+        "time_related_expressions": ["(1965年9月,6-12)","(1965年9月至1980年11月,25-40)"],
+        "relative_order": "2",
+        "time_start": "1965-09",
+        "time_end": "1980-11",
+        "duration": "Null"
+    },
+    {"event_name": "设计院技术员、工程师",
+        "event_id": "abulai_003",
+        "source_files": ["CCMACCM_0001.txt"],
+        "time_related_expressions": ["1965年9月","1965年9月至1980年11月"],
+        "relative_order": "0",
+        "time_start": "1965-09",
+        "time_end": "1980-11",
+        "duration": "Null"
+    },
+    {"event_name": "学习",
+        "event_id": "abulai_004",
+        "source_files": ["CCMACCM_0001.txt"],
+        "time_related_expressions": ["1960年9月至1965年9月"],
+        "relative_order": "0",
+        "time_start": "1960-09",
+        "time_end": "1965-09",
+        "duration": "((years, 5),(years, 5))"
+    },
+    {"event_name": "1980年11月至1983年8月任新疆维吾尔自治区建筑勘察设计院副院长",
+        "event_id": "abulai_004",
+        "source_files": ["CCMACCM_0001.txt"],
+        "time_related_expressions": ["1960年9月至1965年9月"],
+        "relative_order": "0",
+        "time_start": "1960-09",
+        "time_end": "1965-09",
+        "duration": "((years, 5),(years, 5))"
+    }
+
+
+    1965年9月至1980年11月任新疆维吾尔自治区建筑勘察设计院技术员、工程师
+    ],
+    "event_relations":
+    [
+        {"relation_id": "event_idA+_+event_idB",
+        "event_idA":"",
+        "event_idB":"",
+        "span_between": "(min(unit,value), max(unit,value)), 0, Null",
+        "source_files": ["a list fo strings, files where the event appears"],
+        "time_related_expressions": ["a list of strings, the expressions that determine the timing of the event, not relative to any other event"]
+    }
+    ]
+    }
+}
