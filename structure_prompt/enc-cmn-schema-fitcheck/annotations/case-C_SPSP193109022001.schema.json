@@ -1,0 +1,12 @@
+{
+  "安德魯": {
+    "events": [
+      {"event_name": "演講最近探險蒙古沙漠情形", "event_id": "andrews_000",
+       "source_files": ["SPSP193109022001.txt"],
+       "time_related_expressions": ["明日", "本星期四午間十二時三十分"],
+       "relative_order": "0", "time_start": "Null", "time_end": "Null",
+       "duration": "Null"}
+    ],
+    "event_relations": []
+  }
+}
