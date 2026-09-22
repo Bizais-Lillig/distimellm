@@ -1,0 +1,26 @@
+{
+    "topic_record":
+    {"events":
+    [
+        {"event_name": "a string inspired by one or more texts",
+        "event_id": "prefix+integer",
+        "source_files": ["a list fo strings, files where the event appears"],
+        "time_related_expressions": ["a list of strings, the expressions that determine the timing of the event, not relative to any other event"],
+        "relative_order": "an integer, two events can share the same relative order if the happen at the same moment",
+        "time_start": "time_stamp OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null",
+        "time_end": "time_stamp OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null",
+        "duration": "(min(unit,value), max(unit,value)) or Null"
+    }
+    ],
+    "event_relations":
+    [
+        {"relation_id": "event_idA+_+event_idB",
+        "event_idA":"",
+        "event_idB":"",
+        "span_between": "(min(unit,value), max(unit,value)), 0, Null",
+        "source_files": ["a list fo strings, files where the event appears"],
+        "time_related_expressions": ["a list of strings, the expressions that determine the timing of the event, not relative to any other event"]
+    }
+    ]
+    }
+}
