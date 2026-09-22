@@ -42,6 +42,20 @@
         "duration": "((years,3),(years,3))"
       },
       {
+        "event_name": "實習敎務於該大學高中部",
+        "event_id": "huangqy_006",
+        "source_files": [
+          "SPSP192708311019.txt"
+        ],
+        "time_related_expressions": [
+          "一季"
+        ],
+        "relative_order": "3",
+        "time_start": "Null",
+        "time_end": "Null",
+        "duration": "((seasons,1),(seasons,1))"
+      },
+      {
         "event_name": "受哥侖比大學碩士銜",
         "event_id": "huangqy_003",
         "source_files": [
@@ -50,7 +64,7 @@
         "time_related_expressions": [
           "一九二五年"
         ],
-        "relative_order": "3",
+        "relative_order": "4",
         "time_start": "(1925,1925)",
         "time_end": "Null",
         "duration": "Null"
@@ -64,7 +78,7 @@
         "time_related_expressions": [
           "今夏七月間"
         ],
-        "relative_order": "4",
+        "relative_order": "5",
         "time_start": "(1927-07,1927-07)",
         "time_end": "Null",
         "duration": "Null"
@@ -76,7 +90,7 @@
           "SPSP192708311019.txt"
         ],
         "time_related_expressions": "Null",
-        "relative_order": "5",
+        "relative_order": "6",
         "time_start": "Null",
         "time_end": "Null",
         "duration": "Null"
