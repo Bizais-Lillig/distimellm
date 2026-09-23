@@ -1,26 +1,25 @@
 {
-    "corpus_name":
-    {"events":
+    "topic_record":
+    {
+    "sources":"liste de tuples [(filename,date of utterance)]",
+    "events":
     [
-        {"event_id": "str, prefix+integer",
-        "event": "str, the plain text containing the event mention",
-        "source_file" : "str, path of the file where the event appears",
-        "event_location" : "tuple(int, int), (index of character where the text starts in the file, index of character where it ends)",
-        "time_related_expressions": "list[tuple(str, int, int)], a list of (expression, character_start, character_end), the expressions that determine the timing of the event, not relative to any other event"],
-        "event_type": "str, one of <punctual, recurring, range> ",
-        "event_time_start": "time_stamp (including XX if information is unknown) OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null",
-        "event_time_end": "time_stamp (including XX if information is unknown) OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null",
-        "duration": "(min(unit,value), max(unit,value)) or Null",
-        "utterance_time" : "time_stamp at which the document was written (to be found in metadata)"
+        {"event_id": "prefix+integer",
+        "event_name": "string inspired by one or more texts", 
+        "event_sources": "list of tuples: [(filename,[time related expressions])]",
+        "relative_order": "an integer, two events can share the same relative order if the happen at the same moment, Null if not even implicit in the text",
+        "time_start": "(time_stamp OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null,time_stamp OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null)",
+        "time_end": "(time_stamp OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null,time_stamp OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null)",
+        "range": "tuple of tuples: (min(unit,value), max(unit,value)) OR Null"
     }
     ],
     "event_relations":
     [
-        {"relation_id": "event_idA+_+event_idB",
+        {"relation_id": "event_idA_event_idB",
         "event_idA":"",
         "event_idB":"",
-        "relation_type" : "according to Allen's interval-based temp logic, one of 7: <before, equals, overlaps, during, starts, finishes, meets>",
-        "time_related_expressions" :"list[tuple(str, int, int)], a list of (expression, character_start, character_end), the expressions that determine the time relation between the events"
+        "span_between": "(min(unit,value), max(unit,value)), 0, Null",
+        "relation_sources": "list of tuples: [(filename,[time related expressions])]"
     }
     ]
     }
