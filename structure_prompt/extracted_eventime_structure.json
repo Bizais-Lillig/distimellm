@@ -8,8 +8,8 @@
         "event_name": "string inspired by one or more texts", 
         "event_sources": "list of tuples: [(filename,[time related expressions])]",
         "relative_order": "an integer, two events can share the same relative order if the happen at the same moment, Null if not even implicit in the text",
-        "time_start": "(time_stamp OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null,time_stamp OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null)",
-        "time_end": "(time_stamp OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null,time_stamp OR string indicating a reference period such as summer, winter, in his old days, at the end of the century OR Null)",
+        "time_start": "tuple(min_start_timestamp, max_start_timestamp) OR Null)",
+        "time_end": "tuple(min_end_timestamp, max_end_timestamp) OR Null)",
         "range": "tuple of tuples: (min(unit,value), max(unit,value)) OR Null"
     }
     ],
