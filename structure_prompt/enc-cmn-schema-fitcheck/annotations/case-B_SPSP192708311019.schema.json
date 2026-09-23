@@ -1,0 +1,158 @@
+{
+  "黃倩儀": {
+    "events": [
+      {
+        "event_name": "初肄業於中西女塾",
+        "event_id": "huangqy_000",
+        "source_files": [
+          "SPSP192708311019.txt"
+        ],
+        "time_related_expressions": "Null",
+        "relative_order": "0",
+        "time_start": "Null",
+        "time_end": "Null",
+        "duration": "Null"
+      },
+      {
+        "event_name": "考入清華官費出洋抵美",
+        "event_id": "huangqy_001",
+        "source_files": [
+          "SPSP192708311019.txt"
+        ],
+        "time_related_expressions": [
+          "一九二一年"
+        ],
+        "relative_order": "1",
+        "time_start": "(1921,1921)",
+        "time_end": "Null",
+        "duration": "Null"
+      },
+      {
+        "event_name": "卒業於芝加哥大學",
+        "event_id": "huangqy_002",
+        "source_files": [
+          "SPSP192708311019.txt"
+        ],
+        "time_related_expressions": [
+          "攻讀敎育管理專科三年"
+        ],
+        "relative_order": "2",
+        "time_start": "Null",
+        "time_end": "Null",
+        "duration": "((years,3),(years,3))"
+      },
+      {
+        "event_name": "實習敎務於該大學高中部",
+        "event_id": "huangqy_006",
+        "source_files": [
+          "SPSP192708311019.txt"
+        ],
+        "time_related_expressions": [
+          "一季"
+        ],
+        "relative_order": "3",
+        "time_start": "Null",
+        "time_end": "Null",
+        "duration": "((seasons,1),(seasons,1))"
+      },
+      {
+        "event_name": "受哥侖比大學碩士銜",
+        "event_id": "huangqy_003",
+        "source_files": [
+          "SPSP192708311019.txt"
+        ],
+        "time_related_expressions": [
+          "一九二五年"
+        ],
+        "relative_order": "4",
+        "time_start": "(1925,1925)",
+        "time_end": "Null",
+        "duration": "Null"
+      },
+      {
+        "event_name": "取道歐洲考查各國敎育狀况後回國",
+        "event_id": "huangqy_004",
+        "source_files": [
+          "SPSP192708311019.txt"
+        ],
+        "time_related_expressions": [
+          "今夏七月間"
+        ],
+        "relative_order": "5",
+        "time_start": "(1927-07,1927-07)",
+        "time_end": "Null",
+        "duration": "Null"
+      },
+      {
+        "event_name": "偕四妹倩鴻倡辦黃氏女子學社",
+        "event_id": "huangqy_005_SHARED",
+        "source_files": [
+          "SPSP192708311019.txt"
+        ],
+        "time_related_expressions": "Null",
+        "relative_order": "6",
+        "time_start": "Null",
+        "time_end": "Null",
+        "duration": "Null"
+      }
+    ],
+    "event_relations": []
+  },
+  "黃倩鴻": {
+    "events": [
+      {
+        "event_name": "赴美留學",
+        "event_id": "huangqh_000",
+        "source_files": [
+          "SPSP192708311019.txt"
+        ],
+        "time_related_expressions": [
+          "一九二一年"
+        ],
+        "relative_order": "0",
+        "time_start": "(1921,1921)",
+        "time_end": "Null",
+        "duration": "Null"
+      },
+      {
+        "event_name": "卒業於新英倫音樂專科學院",
+        "event_id": "huangqh_001",
+        "source_files": [
+          "SPSP192708311019.txt"
+        ],
+        "time_related_expressions": "Null",
+        "relative_order": "1",
+        "time_start": "Null",
+        "time_end": "Null",
+        "duration": "Null"
+      },
+      {
+        "event_name": "回國執音樂敎鞭於中西女塾母校",
+        "event_id": "huangqh_002",
+        "source_files": [
+          "SPSP192708311019.txt"
+        ],
+        "time_related_expressions": [
+          "一九二六年春季"
+        ],
+        "relative_order": "2",
+        "time_start": "(1926-SP,1926-SP)",
+        "time_end": "Null",
+        "duration": "Null"
+      },
+      {
+        "event_name": "偕姊倩儀倡辦黃氏女子學社",
+        "event_id": "huangqh_003_SHARED",
+        "source_files": [
+          "SPSP192708311019.txt"
+        ],
+        "time_related_expressions": "Null",
+        "relative_order": "3",
+        "time_start": "Null",
+        "time_end": "Null",
+        "duration": "Null"
+      }
+    ],
+    "event_relations": []
+  }
+}

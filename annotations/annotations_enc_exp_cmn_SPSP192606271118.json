@@ -1,0 +1,132 @@
+{
+    "ENC/exp/cmn": {
+        "events": [
+            {
+                "event_id": "id_SPSP192606271118_1",
+                "event": "前在北京清華學校肄業八年",
+                "source_file": "/ENC/exp/cmn/SPSP192606271118.txt",
+                "event_location": "(23, 35)",
+                "time_related_expressions": [
+                    [
+                        "八年",
+                        33,
+                        35
+                    ]
+                ],
+                "event_type": "range",
+                "event_time_start": "Null",
+                "event_time_end": "Null",
+                "duration": "(8, years)",
+                "utterance_time": "1926-06-27"
+            },
+            {
+                "event_id": "id_SPSP192606271118_2",
+                "event": "民國十三年八月以清華官學生出洋入美國俄伯靈大學經濟銀行科",
+                "source_file": "/ENC/exp/cmn/SPSP192606271118.txt",
+                "event_location": "(66, 94)",
+                "time_related_expressions": [
+                    [
+                        "民國十三年八月",
+                        66,
+                        73
+                    ]
+                ],
+                "event_type": "punctual",
+                "event_time_start": "1924-08",
+                "event_time_end": "Null",
+                "duration": "Null",
+                "utterance_time": "1926-06-27"
+            },
+            {
+                "event_id": "id_SPSP192606271118_3",
+                "event": "該省留學生會舉爲會長",
+                "source_file": "/ENC/exp/cmn/SPSP192606271118.txt",
+                "event_location": "(94, 104)",
+                "time_related_expressions": [],
+                "event_type": "punctual",
+                "event_time_start": "Null",
+                "event_time_end": "Null",
+                "duration": "Null",
+                "utterance_time": "1926-06-27"
+            },
+            {
+                "event_id": "id_SPSP192606271118_4",
+                "event": "十五年二月以第一名畢業獲學士位",
+                "source_file": "/ENC/exp/cmn/SPSP192606271118.txt",
+                "event_location": "(104, 119)",
+                "time_related_expressions": [
+                    [
+                        "十五年二月",
+                        104,
+                        109
+                    ]
+                ],
+                "event_type": "punctual",
+                "event_time_start": "1926-02",
+                "event_time_end": "Null",
+                "duration": "Null",
+                "utterance_time": "1926-06-27"
+            },
+            {
+                "event_id": "id_SPSP192606271118_5",
+                "event": "改入芝加哥大學",
+                "source_file": "/ENC/exp/cmn/SPSP192606271118.txt",
+                "event_location": "(119, 126)",
+                "time_related_expressions": [],
+                "event_type": "punctual",
+                "event_time_start": "Null",
+                "event_time_end": "Null",
+                "duration": "Null",
+                "utterance_time": "1926-06-27"
+            },
+            {
+                "event_id": "id_SPSP192606271118_6",
+                "event": "不日學成歸國",
+                "source_file": "/ENC/exp/cmn/SPSP192606271118.txt",
+                "event_location": "(151, 157)",
+                "time_related_expressions": [
+                    [
+                        "不日",
+                        151,
+                        153
+                    ]
+                ],
+                "event_type": "punctual",
+                "event_time_start": "Null",
+                "event_time_end": "Null",
+                "duration": "Null",
+                "utterance_time": "1926-06-27"
+            }
+        ],
+        "event_relations": [
+            {
+                "relation_id": "id_SPSP192606271118_1+_+id_SPSP192606271118_2",
+                "event_idA": "id_SPSP192606271118_1",
+                "event_idB": "id_SPSP192606271118_2",
+                "relation_type": "before",
+                "time_related_expressions": []
+            },
+            {
+                "relation_id": "id_SPSP192606271118_2+_+id_SPSP192606271118_3",
+                "event_idA": "id_SPSP192606271118_2",
+                "event_idB": "id_SPSP192606271118_3",
+                "relation_type": "before",
+                "time_related_expressions": []
+            },
+            {
+                "relation_id": "id_SPSP192606271118_4+_+id_SPSP192606271118_5",
+                "event_idA": "id_SPSP192606271118_4",
+                "event_idB": "id_SPSP192606271118_5",
+                "relation_type": "before",
+                "time_related_expressions": []
+            },
+            {
+                "relation_id": "id_SPSP192606271118_5+_+id_SPSP192606271118_6",
+                "event_idA": "id_SPSP192606271118_5",
+                "event_idB": "id_SPSP192606271118_6",
+                "relation_type": "before",
+                "time_related_expressions": []
+            }
+        ]
+    }
+}

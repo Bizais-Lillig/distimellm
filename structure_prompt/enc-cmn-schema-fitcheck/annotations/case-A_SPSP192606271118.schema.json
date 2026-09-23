@@ -1,0 +1,41 @@
+{
+  "沈鴻來": {
+    "events": [
+      {"event_name": "肄業清華學校", "event_id": "shenhl_000",
+       "source_files": ["SPSP192606271118.txt"],
+       "time_related_expressions": ["前在北京清華學校肄業八年"],
+       "relative_order": "0", "time_start": "Null", "time_end": "Null",
+       "duration": "((years,8),(years,8))"},
+      {"event_name": "以清華官學生出洋入俄伯靈大學經濟銀行科", "event_id": "shenhl_001",
+       "source_files": ["SPSP192606271118.txt"],
+       "time_related_expressions": ["民國十三年八月"],
+       "relative_order": "1", "time_start": "(1924-08,1924-08)", "time_end": "Null",
+       "duration": "Null"},
+      {"event_name": "舉爲該省留學生會會長", "event_id": "shenhl_002",
+       "source_files": ["SPSP192606271118.txt"],
+       "time_related_expressions": "Null",
+       "relative_order": "Null", "time_start": "Null", "time_end": "Null",
+       "duration": "Null"},
+      {"event_name": "以第一名畢業獲學士位", "event_id": "shenhl_003",
+       "source_files": ["SPSP192606271118.txt"],
+       "time_related_expressions": ["十五年二月"],
+       "relative_order": "2", "time_start": "(1926-02,1926-02)", "time_end": "Null",
+       "duration": "Null"},
+      {"event_name": "改入芝加哥大學", "event_id": "shenhl_004",
+       "source_files": ["SPSP192606271118.txt"],
+       "time_related_expressions": "Null",
+       "relative_order": "3", "time_start": "(1926-02,1926-02)", "time_end": "Null",
+       "duration": "Null"},
+      {"event_name": "學成歸國", "event_id": "shenhl_005",
+       "source_files": ["SPSP192606271118.txt"],
+       "time_related_expressions": ["不日"],
+       "relative_order": "4", "time_start": "Null", "time_end": "Null",
+       "duration": "Null"}
+    ],
+    "event_relations": [
+      {"relation_id": "shenhl_003_shenhl_004", "event_idA": "shenhl_003",
+       "event_idB": "shenhl_004", "span_between": "0",
+       "source_files": ["SPSP192606271118.txt"], "time_related_expressions": "Null"}
+    ]
+  }
+}
