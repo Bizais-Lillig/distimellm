@@ -1,7 +1,7 @@
 {
-  "piece_id": "KR4d0232-WYG-f006-0002",
-  "work_id": "W01147",
-  "events": [
+    "INSCR":
+    {
+    "events": [
     {
       "event_id": "KR4d0232-WYG-f006-0002_E1",
       "order": 1,
@@ -268,4 +268,5 @@
       "qualifier": null
     }
   ]
+}
 }

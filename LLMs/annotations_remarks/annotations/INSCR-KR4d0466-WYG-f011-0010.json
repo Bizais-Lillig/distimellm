@@ -1,6 +1,6 @@
 {
-  "piece_id": "KR4d0466-WYG-f011-0010",
-  "work_id": "W01015",
+    "INSCR":
+    {
   "events": [
     {
       "event_id": "KR4d0466-WYG-f011-0010_E1",
@@ -438,4 +438,5 @@
       "qualifier": null
     }
   ]
+}
 }
