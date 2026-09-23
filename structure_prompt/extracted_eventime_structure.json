@@ -6,8 +6,11 @@
     [
         {"event_id": "prefix+integer",
         "event_name": "string inspired by one or more texts", 
-        "event_sources": "list of tuples: [(filename,[time related expressions])]",
-        "relative_order": "an integer, two events can share the same relative order if the happen at the same moment, Null if not even implicit in the text",
+        "event_sources":
+        [{"filename": "str",
+        "time_related_expr":["str"],
+        "position_in_text":["int : first character"]}        
+        ],
         "time_start": "tuple(min_start_timestamp, max_start_timestamp) OR Null)",
         "time_end": "tuple(min_end_timestamp, max_end_timestamp) OR Null)",
         "range": "tuple of tuples: (min(unit,value), max(unit,value)) OR Null"
@@ -18,8 +21,13 @@
         {"relation_id": "event_idA_event_idB",
         "event_idA":"",
         "event_idB":"",
+        "relation_type": "Allen : choose between <before, equals, overlaps, during, starts, finishes, meets>",
         "span_between": "(min(unit,value), max(unit,value)), 0, Null",
-        "relation_sources": "list of tuples: [(filename,[time related expressions])]"
+        "relation_sources":
+            [{"filename": "str",
+            "time_related_expr":["str"],
+            "position_in_text":["int : first character"]}        
+            ]
     }
     ]
     }
