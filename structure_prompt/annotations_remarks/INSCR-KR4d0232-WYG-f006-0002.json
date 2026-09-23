@@ -1,0 +1,271 @@
+{
+  "piece_id": "KR4d0232-WYG-f006-0002",
+  "work_id": "W01147",
+  "events": [
+    {
+      "event_id": "KR4d0232-WYG-f006-0002_E1",
+      "order": 1,
+      "event": "始作浮梁",
+      "event_location": "(16, 20)",
+      "type": "FOUNDING",
+      "episode_id": "EP1",
+      "current": "no"
+    },
+    {
+      "event_id": "KR4d0232-WYG-f006-0002_E2",
+      "order": 2,
+      "event": "漂航斷笮",
+      "event_location": "(35, 39)",
+      "type": "DESTRUCTION",
+      "episode_id": "EP2",
+      "current": "no"
+    },
+    {
+      "event_id": "KR4d0232-WYG-f006-0002_E3",
+      "order": 3,
+      "event": "適為此州",
+      "event_location": "(48, 52)",
+      "type": "ARRIVAL_IN_OFFICE",
+      "episode_id": "EP3",
+      "current": "no"
+    },
+    {
+      "event_id": "KR4d0232-WYG-f006-0002_E4",
+      "order": 4,
+      "event": "復新之",
+      "event_location": "(52, 55)",
+      "type": "REPAIR",
+      "episode_id": "EP4",
+      "current": "yes"
+    },
+    {
+      "event_id": "KR4d0232-WYG-f006-0002_E5",
+      "order": 5,
+      "event": "橋毁",
+      "event_location": "(65, 67)",
+      "type": "DESTRUCTION",
+      "episode_id": "EP2",
+      "current": "no"
+    },
+    {
+      "event_id": "KR4d0232-WYG-f006-0002_E6",
+      "order": 6,
+      "event": "造端",
+      "event_location": "(76, 78)",
+      "type": "START_OF_WORK",
+      "episode_id": "EP5",
+      "current": "yes"
+    },
+    {
+      "event_id": "KR4d0232-WYG-f006-0002_E7",
+      "order": 7,
+      "event": "告具",
+      "event_location": "(83, 85)",
+      "type": "COMPLETION",
+      "episode_id": "EP6",
+      "current": "yes"
+    },
+    {
+      "event_id": "KR4d0232-WYG-f006-0002_E8",
+      "order": 8,
+      "event": "次其語",
+      "event_location": "(420, 423)",
+      "type": "COMPOSITION",
+      "episode_id": "EP7",
+      "current": "yes"
+    }
+  ],
+  "timexes": [
+    {
+      "id": "KR4d0232-WYG-f006-0002_T1",
+      "order": 1,
+      "text": "乾道初元",
+      "span": {
+        "start": 6,
+        "end": 10
+      },
+      "quality": "punctual",
+      "fields": {
+        "dynasty": null,
+        "era": "乾道",
+        "year": {
+          "era_year": 1,
+          "ganzhi": null
+        },
+        "month": null,
+        "day": null,
+        "season": null,
+        "amount": null
+      },
+      "anchor": {
+        "absolute": "乾道元年",
+        "relative": null
+      },
+      "qualifier": null
+    },
+    {
+      "id": "KR4d0232-WYG-f006-0002_T2",
+      "order": 2,
+      "text": "淳熈二年秋七月",
+      "span": {
+        "start": 24,
+        "end": 31
+      },
+      "quality": "punctual",
+      "fields": {
+        "dynasty": null,
+        "era": "淳熙",
+        "year": {
+          "era_year": 2,
+          "ganzhi": null
+        },
+        "month": {
+          "number": 7,
+          "intercalary": false,
+          "ganzhi": null
+        },
+        "day": null,
+        "season": "秋",
+        "amount": null
+      },
+      "anchor": {
+        "absolute": "淳熙二年七月",
+        "relative": null
+      },
+      "qualifier": null
+    },
+    {
+      "id": "KR4d0232-WYG-f006-0002_T3",
+      "order": 3,
+      "text": "十月戊寅",
+      "span": {
+        "start": 79,
+        "end": 83
+      },
+      "quality": "punctual",
+      "fields": {
+        "dynasty": null,
+        "era": null,
+        "year": null,
+        "month": {
+          "number": 10,
+          "intercalary": false,
+          "ganzhi": null
+        },
+        "day": {
+          "number": null,
+          "ganzhi": "戊寅"
+        },
+        "season": null,
+        "amount": null
+      },
+      "anchor": {
+        "absolute": null,
+        "relative": {
+          "anchor_id": "KR4d0232-WYG-f006-0002_T2",
+          "offset": null
+        }
+      },
+      "qualifier": null
+    },
+    {
+      "id": "KR4d0232-WYG-f006-0002_T4",
+      "order": 4,
+      "text": "十一月丁丑",
+      "span": {
+        "start": 86,
+        "end": 91
+      },
+      "quality": "punctual",
+      "fields": {
+        "dynasty": null,
+        "era": null,
+        "year": null,
+        "month": {
+          "number": 11,
+          "intercalary": false,
+          "ganzhi": null
+        },
+        "day": {
+          "number": null,
+          "ganzhi": "丁丑"
+        },
+        "season": null,
+        "amount": null
+      },
+      "anchor": {
+        "absolute": null,
+        "relative": {
+          "anchor_id": "KR4d0232-WYG-f006-0002_T3",
+          "offset": null
+        }
+      },
+      "qualifier": null
+    }
+  ],
+  "event_relations": [
+    {
+      "event_idA": "KR4d0232-WYG-f006-0002_T1",
+      "event_idB": "KR4d0232-WYG-f006-0002_E1",
+      "relation_type": "includes",
+      "offset": null,
+      "qualifier": null
+    },
+    {
+      "event_idA": "KR4d0232-WYG-f006-0002_T2",
+      "event_idB": "KR4d0232-WYG-f006-0002_E2",
+      "relation_type": "includes",
+      "offset": null,
+      "qualifier": null
+    },
+    {
+      "event_idA": "KR4d0232-WYG-f006-0002_E5",
+      "event_idB": "KR4d0232-WYG-f006-0002_E3",
+      "relation_type": "after",
+      "offset": null,
+      "qualifier": "未幾"
+    },
+    {
+      "event_idA": "KR4d0232-WYG-f006-0002_E2",
+      "event_idB": "KR4d0232-WYG-f006-0002_E4",
+      "relation_type": "before",
+      "offset": null,
+      "qualifier": null
+    },
+    {
+      "event_idA": "KR4d0232-WYG-f006-0002_E6",
+      "event_idB": "KR4d0232-WYG-f006-0002_T3",
+      "relation_type": "overlap",
+      "offset": null,
+      "qualifier": null
+    },
+    {
+      "event_idA": "KR4d0232-WYG-f006-0002_E7",
+      "event_idB": "KR4d0232-WYG-f006-0002_T4",
+      "relation_type": "overlap",
+      "offset": null,
+      "qualifier": null
+    },
+    {
+      "event_idA": "KR4d0232-WYG-f006-0002_E4",
+      "event_idB": "KR4d0232-WYG-f006-0002_E6",
+      "relation_type": "begins",
+      "offset": null,
+      "qualifier": null
+    },
+    {
+      "event_idA": "KR4d0232-WYG-f006-0002_E4",
+      "event_idB": "KR4d0232-WYG-f006-0002_E7",
+      "relation_type": "ends",
+      "offset": null,
+      "qualifier": null
+    },
+    {
+      "event_idA": "KR4d0232-WYG-f006-0002_E8",
+      "event_idB": "KR4d0232-WYG-f006-0002_E7",
+      "relation_type": "after",
+      "offset": null,
+      "qualifier": null
+    }
+  ]
+}
