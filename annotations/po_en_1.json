@@ -1,0 +1,56 @@
+{
+    "TW":
+
+    {"events":
+    [
+        {"event_id": "TW_001",
+        "event": "Vice President Vincent C. Siew on the morning of July 30 met with the Indonesian delegation to The 15th Joint Economic Cooperation Conference between and .",
+        "source_file" : "po_en_1.txt",
+        "event_location" : "(0, 155)",
+        "time_related_expressions": ["('on the morning of July 30', 31, 57)"],
+        "event_type": "punctual",
+        "event_time_start": "XXXX-06-30 morning",
+        "event_time_end":  "Null",
+        "duration": "Null",
+        "utterance_time" : "2008-07-30"
+        },
+        {"event_id": "TW_002",
+        "event": "Meeting the delegation at the Presidential Building, Vice President Siew extended a warm welcome to the visitors on behalf of the ROC government.",
+        "source_file" : "po_en_1.txt",
+        "event_location" : "(156, 301)",
+        "time_related_expressions": ["('Meeting the delegation', 156, 178)"],
+        "event_type": "punctual",
+        "event_time_start": "XXXX-XX-XX",
+        "event_time_end":  "Null",
+        "duration": "Null",
+        "utterance_time" : "2008-07-30"
+        },
+        {"event_id": "TW_003",
+        "event": "Over the years, the conference has served as an important mechanism and bridge between the private and official sectors in and ",
+        "source_file" : "po_en_1.txt",
+        "event_location" : "(1562, 1690)",
+        "time_related_expressions": ["('Over the years', 1562, 1576)"],
+        "event_type": "range",
+        "event_time_start": "XXXX-XX-XX",
+        "event_time_end":  "XXXX-07-30",
+        "duration": "years",
+        "utterance_time" : "2008-07-30"
+        }
+    ],
+    "event_relations":
+    [
+        {"relation_id": "TW_002+TW_001",
+        "event_idA":"TW_002",
+        "event_idB":"TW_001",
+        "relation_type" : "during",
+        "time_related_expressions" : ["('Meeting the delegation', 156, 178)", "('on the morning of July 30', 31, 57)"]
+        },
+        {"relation_id": "TW_003+TW_001",
+        "event_idA":"TW_003",
+        "event_idB":"TW_001",
+        "relation_type" : "overlaps",
+        "time_related_expressions" : ["('Over the years', 1562, 1576)", "('on the morning of July 30', 31, 57)"]
+        },
+    ]
+    }
+}

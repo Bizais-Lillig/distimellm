@@ -1,0 +1,22 @@
+{
+    "TW":
+
+    {"events":
+    [
+        {"event_id": "TW_001",
+        "event": "Feb. 25 (CNA) President Chen Shui-bian presided over a ceremony Wednesday in Puli township, central Nantou County to kick off construction of the Nantou section of the National Expressway No. 6.",
+        "source_file" : "./TW/po/eng/po_en_1669.txt",
+        "event_location" : "(0, 202)",
+        "time_related_expressions": ["('Feb. 25', 8, 15)", "('Wednesday', 72, 81)"],
+        "event_type": "punctual",
+        "event_time_start": "XXXX-02-25",
+        "event_time_end":  "Null",
+        "duration": "Null",
+        "utterance_time" : "2004-02-25"
+        }
+    ],
+    "event_relations":
+    [
+    ]
+    }
+}
