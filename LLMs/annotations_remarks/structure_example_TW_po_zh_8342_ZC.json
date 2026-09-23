@@ -1,116 +1,134 @@
 {
-    "corpus_name": "TW/po/cmn",
+    "topic_record": 
+    {
+    "sources":"po_zh_8342.txt",
     "events":
     [
-        {"event_id": "chenshuibian_00",
-        "event": "前往南投縣埔里鎮參加國道六號南投段開工動土典禮，並應邀致詞",
-        "source_file" : "po_zh_8342.txt",
-        "event_location" : "南投縣埔里鎮",
-        "time_related_expressions": "今天下午",
-        "event_type": "punctual",
-        "event_time_start": "2004-02-25",
-        "event_time_end": "2004-02-25",
-        "duration": "Null",
-        "utterance_time" : "2004-02-25"
+        {"event_id": "po_zh_8342_00",
+        "event_name": "陳總統水扁先生今天下午前往南投縣埔里鎮參加國道六號南投段開工動土典禮，並應邀致詞。", 
+        "event_sources":
+        [{"filename": "po_zh_8342.txt",
+        "time_related_expr":["今天下午"],
+        "position_in_text":["7"]}        
+        ],
+        "time_start": "2004-02-25",
+        "time_end": "2004-02-25",
+        "range": "Null"
     },
-    {
-        "event_id": "chenshuibian_01",
-        "event": "非常高興到南投埔里，來參加「新十大建設」在中部地區最重大工程之一：「國道六號南投段」的開工典禮",
-        "source_file" : "po_zh_8342.txt",
-        "event_location" : "南投縣埔里鎮",
-        "time_related_expressions": "Null",
-        "event_type": "punctual",
-        "event_time_start": "2004-02-25",
-        "event_time_end": "2004-02-25",
-        "duration": "Null",
-        "utterance_time" : "2004-02-25"
+    {"event_id": "po_zh_8342_01",
+        "event_name": "今天阿扁非常高興到南投埔里，來參加「新十大建設」在中部地區最重大工程之一：「國道六號南投段」的開工典禮。", 
+        "event_sources":
+        [{"filename": "po_zh_8342.txt",
+        "time_related_expr":["今天"],
+        "position_in_text":["0"]}        
+        ],
+        "time_start": "2004-02-25",
+        "time_end": "2004-02-25",
+        "range": "Null"
     },
-    {
-        "event_id": "「中二高」南投路段_00",
-        "event": "完工通車",
-        "source_file" : "po_zh_8342.txt",
-        "event_location" : "南投縣",
-        "time_related_expressions": "两年前",
-        "event_type": "punctual",
-        "event_time_start": "Null",
-        "event_time_end": "2002-02-25",
-        "duration": "Null",
-        "utterance_time" : "2004-02-25"
+    {"event_id": "po_zh_8342_02",
+        "event_name": "當年政府開發中部橫貫公路", 
+        "event_sources":
+        [{"filename": "po_zh_8342.txt",
+        "time_related_expr":["当年"],
+        "position_in_text":["0"]}        
+        ],
+        "time_start": "Null",
+        "time_end": "Null",
+        "range": "Null"
     },
-    {
-        "event_id": "「國道六號南投段」的開闢_00",
-        "event": "提供南投縣東西向的高速交通網絡",
-        "source_file" : "po_zh_8342.txt",
-        "event_location" : "南投縣",
-        "time_related_expressions": "Null",
-        "event_type": "punctual",
-        "event_time_start": "2002-02-25",
-        "event_time_end": "Null",
-        "duration": "Null",
-        "utterance_time" : "2004-02-25"
+    {"event_id": "po_zh_8342_03",
+        "event_name": "隨著「第二高速公路」於今年1月全線通車", 
+        "event_sources":
+        [{"filename": "po_zh_8342.txt",
+        "time_related_expr":["今年1月"],
+        "position_in_text":["11"]}        
+        ],
+        "time_start": "2004-01-01",
+        "time_end": "2004-01-31",
+        "range": "(month, 1)"
     },
-    {
-        "event_id": "「國道六號南投段」的興建_00",
-        "event": "象徵著整個交通建設思維的改變",
-        "source_file" : "po_zh_8342.txt",
-        "event_location" : "南投縣",
-        "time_related_expressions": "Null",
-        "event_type": "punctual",
-        "event_time_start": "2002-02-25",
-        "event_time_end": "Null",
-        "duration": "Null",
-        "utterance_time" : "2004-02-25"
+    {"event_id": "po_zh_8342_04",
+        "event_name": "十二條「東西向快速道路」、「西濱快速公路」，以及「高速鐵路」於明年十月開始營運通車", 
+        "event_sources":
+        [{"filename": "po_zh_8342.txt",
+        "time_related_expr":["明年十月"],
+        "position_in_text":["25"]}        
+        ],
+        "time_start": "Null",
+        "time_end": "Null",
+        "range": "Null"
     },
-    {
-        "event_id": "民眾對休閒旅遊的需求_00",
-        "event": "列為國家重大交通建設的首要目標",
-        "source_file" : "po_zh_8342.txt",
-        "event_location" : "南投縣",
-        "time_related_expressions": "第一次",
-        "event_type": "punctual",
-        "event_time_start": "2002-02-25",
-        "event_time_end": "Null",
-        "duration": "Null",
-        "utterance_time" : "2004-02-25"
+    {"event_id": "po_zh_8342_05",
+        "event_name": "過去半年以來，股市與房市不斷加溫", 
+        "event_sources":
+        [{"filename": "po_zh_8342.txt",
+        "time_related_expr":["過去半年以來"],
+        "position_in_text":["0"]}        
+        ],
+        "time_start": "2003-08-25",
+        "time_end": "2004-02-25",
+        "range": "(month, 6)"
     },
-    {
-        "event_id": "政府_00",
-        "event": "以相同的理念來推動「國道蘇花公路」的建設",
-        "source_file" : "po_zh_8342.txt",
-        "event_location" : "Null",
-        "time_related_expressions": "Null",
-        "event_type": "range",
-        "event_time_start": "2002-02-25",
-        "event_time_end": "Null",
-        "duration": "Null",
-        "utterance_time" : "2004-02-25"
-    },
-    {
-        "event_id": "興建_00",
-        "event": "特別注意對環境的保護",
-        "source_file" : "po_zh_8342.txt",
-        "event_location" : "Null",
-        "time_related_expressions": ["未來","過程"],
-        "event_type": "range",
-        "event_time_start": "2002-02-25",
-        "event_time_end": "Null",
-        "duration": "Null",
-        "utterance_time" : "2004-02-25"
+    {"event_id": "po_zh_8342_06",
+        "event_name": "在開工今天，祝福我們國道工程一切順利", 
+        "event_sources":
+        [{"filename": "po_zh_8342.txt",
+        "time_related_expr":["今天"],
+        "position_in_text":["3"]}        
+        ],
+        "time_start": "2004-02-25",
+        "time_end": "2004-02-25",
+        "range": "Null"
     }
     ],
     "event_relations":
     [
-        {"relation_id": "「中二高」南投路段_00_「國道六號南投段」的開闢_00",
-        "event_idA":"「中二高」南投路段_00",
-        "event_idB":"「國道六號南投段」的開闢_00",
-        "relation_type" : "before",
-        "time_related_expressions" :"两年前"
+        {"relation_id": "po_zh_8342_00_po_zh_8342_01",
+        "event_idA":"po_zh_8342_00",
+        "event_idB":"po_zh_8342_01",
+        "relation_type": "equals",
+        "span_between": "Null",
+        "relation_sources":
+            [{"filename": "po_zh_8342.txt",
+            "time_related_expr":["今天下午", "今天"],
+            "position_in_text":["7", "0"]}        
+            ]
     },
-    {"relation_id": "國道六號南投段」的興建_00_興建_00",
-        "event_idA":"「國道六號南投段」的興建_00",
-        "event_idB":"興建_00",
-        "relation_type" : "equals",
-        "time_related_expressions" :["未來","过程"]
+
+        {"relation_id": "po_zh_8342_02_po_zh_8342_03",
+        "event_idA":"po_zh_8342_02",
+        "event_idB":"po_zh_8342_03",
+        "relation_type": "before",
+        "span_between": "Null",
+        "relation_sources":
+            [{"filename": "po_zh_8342.txt",
+            "time_related_expr":["当年", "今年1月"],
+            "position_in_text":["0", "11"]}        
+            ]
+    },
+        {"relation_id": "po_zh_8342_03_po_zh_8342_04",
+        "event_idA":"po_zh_8342_03",
+        "event_idB":"po_zh_8342_04",
+        "relation_type": "before",
+        "span_between": "Null",
+        "relation_sources":
+            [{"filename": "po_zh_8342.txt",
+            "time_related_expr":["今年1月", "明年十月"],
+            "position_in_text":["11", "25"]}        
+            ]
+    },
+        {"relation_id": "po_zh_8342_05_po_zh_8342_06",
+        "event_idA":"po_zh_8342_05",
+        "event_idB":"po_zh_8342_06",
+        "relation_type": "before",
+        "span_between": "Null",
+        "relation_sources":
+            [{"filename": "po_zh_8342.txt",
+            "time_related_expr":["過去半年以來", "今天"],
+            "position_in_text":["0", "3"]}        
+            ]
     }
     ]
     }
+}
