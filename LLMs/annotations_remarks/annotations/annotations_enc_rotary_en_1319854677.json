@@ -3,51 +3,140 @@
     {"sources": [
       ["1319854677.txt", "1924-05-24"]
     ],
-    "events":
-    [
-    {"event_id": "1319854677_01",
+    "events": [
+      {
+        "event_id": "1319854677_01",
+        "event_name": "Proclamations issued enjoining slaughter of pigs, oxen, sheep and goats for three days",
+        "event_sources": [
+          {"filename": "1319854677.txt", 
+          "time_related_expr": ["this week"], 
+          "position_in_text": [40]},
+        {"filename": "1319854677.txt", 
+          "time_related_expr": ["three days"], 
+          "position_in_text": [241]}],
+        "time_start": ["this week", "this week"], 
+        "time_end": null, 
+        "range": null
+      },
+      {
+        "event_id": "1319854677_03",
+        "event_name": "Peking officials prayed for rain; people ate stale meat for three days",
+        "event_sources": [{"filename": "1319854677.txt",
+         "time_related_expr": ["for three days"], 
+         "position_in_text": [150]}],
+        "time_start": [null, null], 
+        "time_end": null, 
+        "range": ["(3, days)"]
+      },
+      {
+        "event_id": "1319854677_04",
+        "event_name": "Bitter opposition raised against the newly proposed police tax",
+        "event_sources": [{"filename": "1319854677.txt", 
+        "time_related_expr": ["this week"], 
+        "position_in_text": [768]}],
+        "time_start": ["this week", "this week"], 
+        "time_end": null, "range": null
+      },
+      {
+        "event_id": "1319854677_05",
+        "event_name": "About 180 Peiyang students quartered themselves in the ministry of education, threatening to stay",
+        "event_sources": [{"filename": "1319854677.txt", 
+        "time_related_expr": ["for about week"], 
+        "position_in_text": [60]}],
+        "time_start": [null, null], "time_end": null, 
+        "range": ["(1, week), (1, week))"]
+      },
+      {
+        "event_id": "1319854677_06",
+        "event_name": "Liang Tun-yen, former minister of communications, died of pneumonia at his Peking residence",
+        "event_sources": [{"filename": "1319854677.txt", "time_related_expr": ["May 12"], "position_in_text": [2246]}],
+        "time_start": ["XXXX-05-12", "XXXX-05-12"], 
+        "time_end": null, 
+        "range": null
+      },
+
+      {
+        "event_id": "1319854677_07",
+        "event_name": "General Li Yuan-hung returned to his Tientsin residence from a long visit in Japan",
+        "event_sources": [{"filename": "1319854677.txt", "time_related_expr": ["May 10"], "position_in_text": [2886]}],
+        "time_start": ["XXXX-05-10", "XXXX-05-10"], "time_end": null, "range": null
+      },
+      {
+        "event_id": "1319854677_08",
+        "event_name": "Presidential mandates appointed Yueh Chao-chu minister to Mexico and Chang Chien Jr minister to Chile",
+        "event_sources": [{"filename": "1319854677.txt", "time_related_expr": ["Monday night"], "position_in_text": [3154]}],
+        "time_start": ["Monday night", "Monday night"], "time_end": null, "range": null
+      },
+      {
+        "event_id": "1319854677_09",
+        "event_name": "Two main lines of the Peking tramways to begin operation",
+        "event_sources": [{"filename": "1319854677.txt", "time_related_expr": ["July 1"], "position_in_text": [4768]}],
+        "time_start": ["XXXX-07-01", "XXXX-07-01"], "time_end": null, "range": null
+      },
+      {
+        "event_id": "1319854677_10",
+        "event_name": "Fliers practising day and night in and around Peking",
+        "event_sources": [{"filename": "1319854677.txt", "time_related_expr": ["At present"], "position_in_text": [5413]}],
+        "time_start": ["at present", "at present"], "time_end": null, "range": null
+      },
+      {
+        "event_id": "1319854677_11",
+        "event_name": "About 200 Chinese held a meeting in Central Park, Peking, and resolved that the government request closure of the British Legation Guards' Club",
+        "event_sources": [{"filename": "1319854677.txt", "time_related_expr": ["May 15"], "position_in_text": [5715]}],
+        "time_start": ["XXXX-05-15", "XXXX-05-15"], "time_end": null, "range": null
+      },
+      {
+        "event_id": "1319854677_12",
+        "event_name": "Burgess, secretary of the Community Service department, left Peking for Shanghai on an inspection tour",
+        "event_sources": [{"filename": "1319854677.txt", "time_related_expr": ["May 15"], "position_in_text": [7000]}],
+        "time_start": ["XXXX-05-15", "XXXX-05-15"], "time_end": null, "range": "about three weeks"
+      },
+      {
+        "event_id": "1319854677_13",
         "event_name": "Dr Jacob Gould Schurman, American Minister to China, and Mrs Schurman left Peking",
-        "event_sources": [
-          {
-            "filename": "1319854677.txt",
-            "time_related_expr": ["May 14"],
-            "position_in_text": [118]
-          }
-        ],
-        "time_start": ["XXXX-05-14", "XXXX-05-14"],
-        "time_end": null,
-        "range": null
-    },
-    {"event_id": "1319854677_02",
+        "event_sources": [{"filename": "1319854677.txt", "time_related_expr": ["May 14"], "position_in_text": [7515]}],
+        "time_start": ["XXXX-05-14", "XXXX-05-14"], "time_end": null, "range": null
+      },
+      {
+        "event_id": "1319854677_14",
         "event_name": "They left for Taian for a sightseeing trip up the sacred mountain of Taishan",
-        "event_sources": [
-          {
-            "filename": "1319854677.txt",
-            "time_related_expr": ["the next evening"],
-            "position_in_text": [265]
-          }
-        ],
-        "time_start": ["the next evening", "the next evening"],
-        "time_end": null,
-        "range": null
-    },
-    {"event_id": "1319854677_03",
+        "event_sources": [{"filename": "1319854677.txt", "time_related_expr": ["the next evening"], "position_in_text": [7662]}],
+        "time_start": ["the next evening", "the next evening"], "time_end": null, "range": null
+      },
+      {
+        "event_id": "1319854677_15",
         "event_name": "Mrs Schurman to return to Peking; Dr Schurman to proceed to Shanghai then return to Peking",
-        "event_sources": [
-          {
-            "filename": "1319854677.txt",
-            "time_related_expr": ["May 20"],
-            "position_in_text": [497]
-          }
-        ],
-        "time_start": ["XXXX-05-20", "XXXX-05-20"],
-        "time_end": null,
-        "range": null
-    }
+        "event_sources": [{"filename": "1319854677.txt", "time_related_expr": ["May 20"], "position_in_text": [7894]}],
+        "time_start": ["XXXX-05-20", "XXXX-05-20"], "time_end": null, "range": null
+      },
+      {
+        "event_id": "1319854677_16",
+        "event_name": "General William Conner, aides, and Mr Peck left Peking for Loyang to be guests of General Wu Pei-fu",
+        "event_sources": [{"filename": "1319854677.txt", "time_related_expr": ["May 12"], "position_in_text": [8350]}],
+        "time_start": ["XXXX-05-12", "XXXX-05-12"], "time_end": null, "range": null
+      },
+      {
+        "event_id": "1319854677_17",
+        "event_name": "Hiram Cleaver, ex-president of the Continental Oil Company, and Mrs Cleaver arrived in Peking on a world tour",
+        "event_sources": [{"filename": "1319854677.txt", "time_related_expr": ["May 14"], "position_in_text": [8540]}],
+        "time_start": ["XXXX-05-14", "XXXX-05-14"], "time_end": null, "range": null
+      },
+      {
+        "event_id": "1319854677_18",
+        "event_name": "An unidentified messenger brought a package to Dr Wellington Koo's residence",
+        "event_sources": [{"filename": "1319854677.txt", "time_related_expr": ["Thursday evening"], "position_in_text": [8885]}],
+        "time_start": ["Thursday evening", "Thursday evening"], "time_end": null, "range": null
+      },
+      {
+        "event_id": "1319854677_19",
+        "event_name": "Dr Koo ordered a package opened, resulting in an explosion",
+        "event_sources": [{"filename": "1319854677.txt", "time_related_expr": ["Friday afternoon"], "position_in_text": [8987]}],
+        "time_start": ["Friday afternoon", "Friday afternoon"], "time_end": null, "range": null
+      }
     ],
     "event_relations":
     [
-    {"relation_id": "1319854677_01_1319854677_02",
+    {"relation_id": "1319854677_13_1319854677_14",
         "event_idA":"1319854677_01",
         "event_idB":"1319854677_02",
         "relation_type": "before",
@@ -58,6 +147,20 @@
             "time_related_expr": ["the next evening"],
             "position_in_text": [265]
           }
+        ]},
+      {"relation_id": "1319854677_14_1319854677_15",
+        "event_idA":"1319854677_14",
+        "event_idB":"1319854677_15",
+        "relation_type": "before",
+        "span_between": null,
+        "relation_sources": [
+        ]},
+      {"relation_id": "1319854677_18_1319854677_19",
+        "event_idA":"1319854677_18",
+        "event_idB":"1319854677_19",
+        "relation_type": "before",
+        "span_between": null,
+        "relation_sources": [
         ]}
 
     ]

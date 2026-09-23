@@ -1,7 +1,7 @@
 {
     "Taiwan Presidential office":
     {
-    "sources": ["('./TW/po/eng/po_en_1669.txt', '2004-02-25')"],
+    "sources": [["./TW/po/eng/po_en_1669.txt", "2004-02-25"]],
     "events":
     [
         {"event_id": "TW_001",
@@ -13,7 +13,7 @@
         ],
         "time_start": "XXXX-02-25",
         "time_end":  "Null",
-        "range": "Null",
+        "range": "Null"
         }
     ],
     "event_relations":

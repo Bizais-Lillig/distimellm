@@ -1,7 +1,7 @@
 {
     "Taiwan presidential office":
     {
-    "sources": ["('/TW/po/eng/po_en_1.txt', '2008-07-30')"],
+    "sources": [["/TW/po/eng/po_en_1.txt", "2008-07-30"]],
     "events":
     [
         {"event_id": "TW_001",
@@ -35,7 +35,7 @@
     	],
         "event_time_start": "XXXX-XX-XX",
         "event_time_end":  "XXXX-07-30",
-        "duration": "(min(XXXX-XX-XX), max(XXXX-07-30))"
+        "range": "(min(XXXX-XX-XX), max(XXXX-07-30))"
         }
     ],
     "event_relations":

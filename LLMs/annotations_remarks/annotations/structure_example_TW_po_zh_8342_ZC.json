@@ -1,7 +1,7 @@
 {
     "topic_record": 
     {
-    "sources":"po_zh_8342.txt",
+    "sources":[["po_zh_8342.txt", null]],
     "events":
     [
         {"event_id": "po_zh_8342_00",
