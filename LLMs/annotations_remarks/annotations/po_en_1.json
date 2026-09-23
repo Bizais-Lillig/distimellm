@@ -1,0 +1,67 @@
+{
+    "Taiwan presidential office":
+    {
+    "sources": ["('/TW/po/eng/po_en_1.txt', '2008-07-30')"],
+    "events":
+    [
+        {"event_id": "TW_001",
+        "event_name": "Vice President Vincent C. Siew on the morning of July 30 met with the Indonesian delegation to The 15th Joint Economic Cooperation Conference between and .",
+        "event_sources": 
+        [{"filename": "/TW/po/eng/po_en_1.txt",
+        "time_related_expr": ["on the morning of July 30"],
+        "position_in_text": [31]}
+    	],
+        "time_start": "XXXX-06-30 morning",
+        "time_end":  "Null",
+        "range": "Null"
+        },
+        {"event_id": "TW_002",
+        "event_name": "Meeting the delegation at the Presidential Building, Vice President Siew extended a warm welcome to the visitors on behalf of the ROC government.",
+        "event_sources": 
+        [{"filename": "/TW/po/eng/po_en_1.txt",
+        "time_related_expr": ["Meeting the delegation"],
+        "position_in_text": [156]}
+    	],
+        "time_start": "XXXX-XX-XX",
+        "time_end":  "Null",
+        "range": "Null"
+        },
+        {"event_id": "TW_003",
+        "event_name": "Over the years, the conference has served as an important mechanism and bridge between the private and official sectors in and ",
+        "event_sources": 
+        [{"filename": "/TW/po/eng/po_en_1.txt",
+        "time_related_expr": ["Over the years"],
+        "position_in_text": [1562]}
+    	],
+        "event_time_start": "XXXX-XX-XX",
+        "event_time_end":  "XXXX-07-30",
+        "duration": "(min(XXXX-XX-XX), max(XXXX-07-30))"
+        }
+    ],
+    "event_relations":
+    [
+        {"relation_id": "TW_002+TW_001",
+        "event_idA":"TW_002",
+        "event_idB":"TW_001",
+        "relation_type" : "during",
+        "span_between": "Null",
+        "event_sources": 
+        [{"filename": "/TW/po/eng/po_en_1.txt",
+        "time_related_expr": ["Meeting the delegation", "on the morning of July 30"],
+        "position_in_text": [156, 31]}
+    	]
+        },
+        {"relation_id": "TW_003+TW_001",
+        "event_idA":"TW_003",
+        "event_idB":"TW_001",
+        "relation_type" : "overlaps",
+        "span_between": "(min(XXXX-XX-XX), max(XXXX-06-30 morning))",
+        "event_sources":
+        [{"filename": "/TW/po/eng/po_en_1.txt",
+        "time_related_expr": ["Over the years", "on the morning of July 30"],
+        "position_in_text": [1562, 31]}
+    	]
+        }
+    ]
+    }
+}
