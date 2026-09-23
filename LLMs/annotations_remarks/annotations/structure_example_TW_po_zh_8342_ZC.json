@@ -1,6 +1,6 @@
 {
-    "corpus_name": "TW/po/cmn",
-    "events":
+    "TW/po/cmn":
+    {"events":
     [
         {"event_id": "chenshuibian_00",
         "event": "前往南投縣埔里鎮參加國道六號南投段開工動土典禮，並應邀致詞",
@@ -114,3 +114,4 @@
     }
     ]
     }
+}

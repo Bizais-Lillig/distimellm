@@ -1,0 +1,999 @@
+[
+  {
+    "event_id": "KR4d0466-WYG-f011-0010_建昌路重建太平橋記_1",
+    "event": "至元丙子燬焉",
+    "source_file": "KR4d0466-WYG-f011-0010_建昌路重建太平橋記.txt",
+    "event_location": [
+      50,
+      58
+    ],
+    "time_related_expressions": [
+      [
+        "至元丙子",
+        50,
+        54
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "至元丙子",
+    "event_time_end": "至元丙子",
+    "duration": null,
+    "utterance_time": null
+  },
+  {
+    "event_id": "KR4d0466-WYG-f011-0010_建昌路重建太平橋記_2",
+    "event": "壬辰六月郡侯章公總管趙公帥同僚洎郡寓公大家度材鳩工",
+    "source_file": "KR4d0466-WYG-f011-0010_建昌路重建太平橋記.txt",
+    "event_location": [
+      68,
+      94
+    ],
+    "time_related_expressions": [
+      [
+        "壬辰六月",
+        68,
+        72
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "壬辰六月",
+    "event_time_end": "壬辰六月",
+    "duration": null,
+    "utterance_time": null
+  },
+  {
+    "event_id": "KR4d0466-WYG-f011-0010_建昌路重建太平橋記_3",
+    "event": "癸已十一月始事",
+    "source_file": "KR4d0466-WYG-f011-0010_建昌路重建太平橋記.txt",
+    "event_location": [
+      95,
+      102
+    ],
+    "time_related_expressions": [
+      [
+        "癸已十一月",
+        95,
+        100
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "癸已十一月",
+    "event_time_end": "癸已十一月",
+    "duration": null,
+    "utterance_time": null
+  },
+  {
+    "event_id": "KR4d0466-WYG-f011-0010_建昌路重建太平橋記_4",
+    "event": "越明年七月落成",
+    "source_file": "KR4d0466-WYG-f011-0010_建昌路重建太平橋記.txt",
+    "event_location": [
+      103,
+      110
+    ],
+    "time_related_expressions": [
+      [
+        "越明年七月",
+        103,
+        108
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "越明年七月",
+    "event_time_end": "越明年七月",
+    "duration": null,
+    "utterance_time": null
+  },
+  {
+    "event_id": "KR4d0466-WYG-f011-0010_建昌路重建太平橋記_5",
+    "event": "由丙子至甲午幾二十年而橋始復太平之世民有餘力",
+    "source_file": "KR4d0466-WYG-f011-0010_建昌路重建太平橋記.txt",
+    "event_location": [
+      237,
+      260
+    ],
+    "time_related_expressions": [
+      [
+        "由丙子至甲午",
+        237,
+        243
+      ]
+    ],
+    "event_type": "range",
+    "event_time_start": "丙子",
+    "event_time_end": "甲午",
+    "duration": "(min(year,20), max(year,20))",
+    "utterance_time": null
+  },
+  {
+    "event_id": "po_en_1669_1",
+    "event": "President Chen Shui-bian presided over a ceremony Wednesday in Puli township, central Nantou County to kick off construction of the Nantou section of the National Expressway No. 6.",
+    "source_file": "po_en_1669.txt",
+    "event_location": [
+      16,
+      172
+    ],
+    "time_related_expressions": [
+      [
+        "Wednesday",
+        58,
+        67
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "Wednesday",
+    "event_time_end": "Wednesday",
+    "duration": null,
+    "utterance_time": "1669-02-25"
+  },
+  {
+    "event_id": "SPSP192606271118_1",
+    "event": "民國十三年八月以清華官學生出洋入美國俄伯靈大學經濟銀行科",
+    "source_file": "SPSP192606271118.txt",
+    "event_location": [
+      78,
+      106
+    ],
+    "time_related_expressions": [
+      [
+        "民國十三年八月",
+        78,
+        85
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "民國十三年八月",
+    "event_time_end": "民國十三年八月",
+    "duration": null,
+    "utterance_time": "1926-06-27"
+  },
+  {
+    "event_id": "SPSP192606271118_2",
+    "event": "十五年二月以第一名畢業獲學士位改入芝加哥大學",
+    "source_file": "SPSP192606271118.txt",
+    "event_location": [
+      119,
+      144
+    ],
+    "time_related_expressions": [
+      [
+        "十五年二月",
+        119,
+        124
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "十五年二月",
+    "event_time_end": "十五年二月",
+    "duration": null,
+    "utterance_time": "1926-06-27"
+  },
+  {
+    "event_id": "SPSP192506121501_1",
+    "event": "天津扶輪社電上海扶輪社日前接天津扶輪社來電",
+    "source_file": "SPSP192506121501.txt",
+    "event_location": [
+      0,
+      24
+    ],
+    "time_related_expressions": [
+      [
+        "日前",
+        10,
+        12
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "日前",
+    "event_time_end": "日前",
+    "duration": null,
+    "utterance_time": "1925-06-12"
+  },
+  {
+    "event_id": "1319854677_1",
+    "event": "Proclamations were issued this week enjoining the slaughter of pigs oxen sheep and goats for three days",
+    "source_file": "1319854677.txt",
+    "event_location": [
+      104,
+      206
+    ],
+    "time_related_expressions": [
+      [
+        "this week",
+        126,
+        135
+      ]
+    ],
+    "event_type": "range",
+    "event_time_start": "this week",
+    "event_time_end": "this week",
+    "duration": "(min(day,3), max(day,3))",
+    "utterance_time": "1924-05-17"
+  },
+  {
+    "event_id": "1319854677_2",
+    "event": "Bitter opposition has been raised this week among all classes of people in Peking against the newly proposed police tax",
+    "source_file": "1319854677.txt",
+    "event_location": [
+      460,
+      589
+    ],
+    "time_related_expressions": [
+      [
+        "this week",
+        492,
+        501
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "this week",
+    "event_time_end": "this week",
+    "duration": null,
+    "utterance_time": "1924-05-17"
+  },
+  {
+    "event_id": "1319854677_3",
+    "event": "Liang Tun-yen well-known Chinese scholar of the old type and one of the earliest American returned students passed away at his Peking residence on May 12.",
+    "source_file": "1319854677.txt",
+    "event_location": [
+      1231,
+      1405
+    ],
+    "time_related_expressions": [
+      [
+        "on May 12",
+        1394,
+        1403
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "May 12",
+    "event_time_end": "May 12",
+    "duration": null,
+    "utterance_time": "1924-05-17"
+  },
+  {
+    "event_id": "1319854677_4",
+    "event": "General Li Yuan-hung former president of China has returned to his Tientsin resilience from long visit in Japan on May 10.",
+    "source_file": "1319854677.txt",
+    "event_location": [
+      1655,
+      1788
+    ],
+    "time_related_expressions": [
+      [
+        "on May 10",
+        1778,
+        1786
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "May 10",
+    "event_time_end": "May 10",
+    "duration": null,
+    "utterance_time": "1924-05-17"
+  },
+  {
+    "event_id": "1319854677_5",
+    "event": "By presidential mandates issued Monday night Yueh Chao-chu councillor of the ministry of foreign affairs was appointed minister to Mexico and Chang Chien Jr was appointed minister to Chile",
+    "source_file": "1319854677.txt",
+    "event_location": [
+      1934,
+      2153
+    ],
+    "time_related_expressions": [
+      [
+        "Monday night",
+        1970,
+        1982
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "Monday night",
+    "event_time_end": "Monday night",
+    "duration": null,
+    "utterance_time": "1924-05-17"
+  },
+  {
+    "event_id": "1319854677_6",
+    "event": "The news lias been given out by the Peking Tramway company that two of the main lines of the Peking tramways will be operation on July 1.",
+    "source_file": "1319854677.txt",
+    "event_location": [
+      2735,
+      2887
+    ],
+    "time_related_expressions": [
+      [
+        "on July 1",
+        2876,
+        2885
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "July 1",
+    "event_time_end": "July 1",
+    "duration": null,
+    "utterance_time": "1924-05-17"
+  },
+  {
+    "event_id": "1319854677_7",
+    "event": "number of Chinese P's about 200 in number who held meeting in the Central Park of Peking May 15, and passed resolution that tlie government should request the British Legation to close up the British Legation Guards' Club in Mei Cha Hutung",
+    "source_file": "1319854677.txt",
+    "event_location": [
+      3295,
+      3559
+    ],
+    "time_related_expressions": [
+      [
+        "May 15",
+        3400,
+        3406
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "May 15",
+    "event_time_end": "May 15",
+    "duration": null,
+    "utterance_time": "1924-05-17"
+  },
+  {
+    "event_id": "1319854677_8",
+    "event": "Burgess secretary of the Community Service depart ment of the Peking left for Shanghai May 15, to be away for about three weeks",
+    "source_file": "1319854677.txt",
+    "event_location": [
+      4330,
+      4471
+    ],
+    "time_related_expressions": [
+      [
+        "May 15",
+        4428,
+        4434
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "May 15",
+    "event_time_end": "May 15",
+    "duration": null,
+    "utterance_time": "1924-05-17"
+  },
+  {
+    "event_id": "1319854677_9",
+    "event": "Dr Jacob Gould Schurman the American Minister to China accompanied by Mrs Schurman left Peking May 14, for Tientsin where Dr Schurman spoke before the Tientsin Rotary Club and also to the students of the Nankai university",
+    "source_file": "1319854677.txt",
+    "event_location": [
+      4805,
+      5033
+    ],
+    "time_related_expressions": [
+      [
+        "May 14",
+        4903,
+        4909
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "May 14",
+    "event_time_end": "May 14",
+    "duration": null,
+    "utterance_time": "1924-05-17"
+  },
+  {
+    "event_id": "1319854677_10",
+    "event": "General William Conner commander of the 15th Infantry at Tientsin accompanied by his aides and Mr Peck Chinese secretary of the American Legation left Peking May 12, for Loyang where they will be guests of General Wu Pei-fu for few days",
+    "source_file": "1319854677.txt",
+    "event_location": [
+      5477,
+      5752
+    ],
+    "time_related_expressions": [
+      [
+        "May 12",
+        5654,
+        5660
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "May 12",
+    "event_time_end": "May 12",
+    "duration": null,
+    "utterance_time": "1924-05-17"
+  },
+  {
+    "event_id": "1319854677_11",
+    "event": "Hiram Cleaver ex-president of the Continental Oil Company of Denver Colorado and Mrs Cleaver arrived in Peking May 14.",
+    "source_file": "1319854677.txt",
+    "event_location": [
+      5753,
+      5893
+    ],
+    "time_related_expressions": [
+      [
+        "May 14",
+        5883,
+        5889
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "May 14",
+    "event_time_end": "May 14",
+    "duration": null,
+    "utterance_time": "1924-05-17"
+  },
+  {
+    "event_id": "1319854677_12",
+    "event": "dastardly attempt was made recently by certain un known persons to assassinate Dr Wellington Koo Minister of Foreign Affairs that resulted in the wounding of three of his servants",
+    "source_file": "1319854677.txt",
+    "event_location": [
+      5937,
+      6144
+    ],
+    "time_related_expressions": [
+      [
+        "recently",
+        5967,
+        5975
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "recently",
+    "event_time_end": "recently",
+    "duration": null,
+    "utterance_time": "1924-05-17"
+  },
+  {
+    "event_id": "1319854677_13",
+    "event": "An unidentified messenger who refused to give the name of the sender brought package to Dr Koo's residence Thursday evening- and said that the box contained articles for the Foreign Minister's personal use",
+    "source_file": "1319854677.txt",
+    "event_location": [
+      6205,
+      6423
+    ],
+    "time_related_expressions": [
+      [
+        "Thursday evening",
+        6318,
+        6333
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "Thursday evening",
+    "event_time_end": "Thursday evening",
+    "duration": null,
+    "utterance_time": "1924-05-17"
+  },
+  {
+    "event_id": "1319854677_14",
+    "event": "On Friday afternoon Dr Koo order ed the package opened",
+    "source_file": "1319854677.txt",
+    "event_location": [
+      6424,
+      6480
+    ],
+    "time_related_expressions": [
+      [
+        "Friday afternoon",
+        6427,
+        6442
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "Friday afternoon",
+    "event_time_end": "Friday afternoon",
+    "duration": null,
+    "utterance_time": "1924-05-17"
+  },
+  {
+    "event_id": "KR4d0232-WYG-f006-0002_撫州新作浮橋記_1",
+    "event": "乾道初元知州事陳侯森始作浮梁以通徃來",
+    "source_file": "KR4d0232-WYG-f006-0002_撫州新作浮橋記.txt",
+    "event_location": [
+      12,
+      34
+    ],
+    "time_related_expressions": [
+      [
+        "乾道初元",
+        12,
+        16
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "乾道初元",
+    "event_time_end": "乾道初元",
+    "duration": null,
+    "utterance_time": null
+  },
+  {
+    "event_id": "KR4d0232-WYG-f006-0002_撫州新作浮橋記_2",
+    "event": "淳熈二年秋七月甚雨淫潦漂航斷笮無一存者",
+    "source_file": "KR4d0232-WYG-f006-0002_撫州新作浮橋記.txt",
+    "event_location": [
+      35,
+      56
+    ],
+    "time_related_expressions": [
+      [
+        "淳熈二年秋七月",
+        35,
+        42
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "淳熈二年秋七月",
+    "event_time_end": "淳熈二年秋七月",
+    "duration": null,
+    "utterance_time": null
+  },
+  {
+    "event_id": "KR4d0232-WYG-f006-0002_撫州新作浮橋記_3",
+    "event": "造端以十月戊寅告具以十一月丁丑",
+    "source_file": "KR4d0232-WYG-f006-0002_撫州新作浮橋記.txt",
+    "event_location": [
+      89,
+      109
+    ],
+    "time_related_expressions": [
+      [
+        "十月戊寅",
+        92,
+        96
+      ],
+      [
+        "十一月丁丑",
+        101,
+        106
+      ]
+    ],
+    "event_type": "range",
+    "event_time_start": "十月戊寅",
+    "event_time_end": "十一月丁丑",
+    "duration": null,
+    "utterance_time": null
+  },
+  {
+    "event_id": "1319843498_1",
+    "event": "yet last week at the in Shanghai 120 women enrolled for ten days course of lectures on these subjects coming daily from 3 to 5: 30",
+    "source_file": "1319843498.txt",
+    "event_location": [
+      242,
+      385
+    ],
+    "time_related_expressions": [
+      [
+        "last week",
+        246,
+        255
+      ]
+    ],
+    "event_type": "range",
+    "event_time_start": "last week",
+    "event_time_end": "last week",
+    "duration": "(min(day,10), max(day,10))",
+    "utterance_time": null
+  },
+  {
+    "event_id": "1319843498_2",
+    "event": "Jean Alvalyn was born to Mr and Mrs Cannon at Foochow China on November 6.",
+    "source_file": "1319843498.txt",
+    "event_location": [
+      2219,
+      2302
+    ],
+    "time_related_expressions": [
+      [
+        "on November 6",
+        2288,
+        2300
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "November 6",
+    "event_time_end": "November 6",
+    "duration": null,
+    "utterance_time": null
+  },
+  {
+    "event_id": "1319843498_3",
+    "event": "social evening hearts drive and dance will be held in the Municipal Service Club No 8-b Peking Road to members and their friends only on Friday November 14.",
+    "source_file": "1319843498.txt",
+    "event_location": [
+      2303,
+      2477
+    ],
+    "time_related_expressions": [
+      [
+        "on Friday November 14",
+        2449,
+        2470
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "November 14",
+    "event_time_end": "November 14",
+    "duration": null,
+    "utterance_time": null
+  },
+  {
+    "event_id": "1319843498_4",
+    "event": "Mrs George Fryer will be at home to her freinds at No 4 Edinburgh Road Shanghai during the second and third Fridays November 14 and 21 from 4 to 6",
+    "source_file": "1319843498.txt",
+    "event_location": [
+      2478,
+      2634
+    ],
+    "time_related_expressions": [
+      [
+        "during the second and third Fridays November 14 and 21",
+        2553,
+        2603
+      ]
+    ],
+    "event_type": "recurring",
+    "event_time_start": "November 14",
+    "event_time_end": "November 21",
+    "duration": null,
+    "utterance_time": null
+  },
+  {
+    "event_id": "1319843498_5",
+    "event": "The announcement is made of the marriage of Dr Amy Metcalf formerly of the American Board Mission for four years in North China and Capt Albert Bowen at Tours France on October 29.",
+    "source_file": "1319843498.txt",
+    "event_location": [
+      2635,
+      2833
+    ],
+    "time_related_expressions": [
+      [
+        "on October 29",
+        2820,
+        2831
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "October 29",
+    "event_time_end": "October 29",
+    "duration": null,
+    "utterance_time": null
+  },
+  {
+    "event_id": "1319843498_6",
+    "event": "At the home of the faculty of the Shanghai American School at No 147 Szechuen Road Shanghai reception was given to parents and their friends by the faculty on Tuesday afternoon Novem ber xi",
+    "source_file": "1319843498.txt",
+    "event_location": [
+      3015,
+      3224
+    ],
+    "time_related_expressions": [
+      [
+        "on Tuesday afternoon Novem ber xi",
+        3172,
+        3204
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "November 11",
+    "event_time_end": "November 11",
+    "duration": null,
+    "utterance_time": null
+  },
+  {
+    "event_id": "1319843498_7",
+    "event": "The wedding took place at Hankow China on No vember 2, of John Bristow of the Standard Oil Com pany at Shanghai and Miss Frances Helen Blair at the home of Mr and Mrs Gale",
+    "source_file": "1319843498.txt",
+    "event_location": [
+      3438,
+      3645
+    ],
+    "time_related_expressions": [
+      [
+        "on No vember 2",
+        3475,
+        3489
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "November 2",
+    "event_time_end": "November 2",
+    "duration": null,
+    "utterance_time": null
+  },
+  {
+    "event_id": "1319843498_8",
+    "event": "More than 400 members of the Shanghai com munity and their guests were present at the Armistice celebration at the Shanghai Club on Tuesday evening November 11.",
+    "source_file": "1319843498.txt",
+    "event_location": [
+      3762,
+      3945
+    ],
+    "time_related_expressions": [
+      [
+        "on Tuesday evening November 11",
+        3900,
+        3929
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "November 11",
+    "event_time_end": "November 11",
+    "duration": null,
+    "utterance_time": null
+  },
+  {
+    "event_id": "1319843498_9",
+    "event": "plan to hold an informal dinner during the winter season to entertain the officers and men of the American warships in harbor at the Navy at No 6 Avenue Edward VII under the auspices of the American Woman's Club and the Navy was decided at their first at home held on Saturday evening November 8, at which more than 60 guests were present",
+    "source_file": "1319843498.txt",
+    "event_location": [
+      4063,
+      4412
+    ],
+    "time_related_expressions": [
+      [
+        "during the winter season",
+        4104,
+        4126
+      ],
+      [
+        "on Saturday evening November 8",
+        4336,
+        4364
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "November 8",
+    "event_time_end": "November 8",
+    "duration": null,
+    "utterance_time": null
+  },
+  {
+    "event_id": "1319843498_10",
+    "event": "At dinner given by YangTcheng Commissioner of Foreign Affairs at the Naval Club on Saturday evening November 8, the following guests were present",
+    "source_file": "1319843498.txt",
+    "event_location": [
+      4621,
+      4774
+    ],
+    "time_related_expressions": [
+      [
+        "on Saturday evening November 8",
+        4718,
+        4746
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "November 8",
+    "event_time_end": "November 8",
+    "duration": null,
+    "utterance_time": null
+  },
+  {
+    "event_id": "po_zh_8342_1",
+    "event": "陳總統水扁先生今天下午前往南投縣埔里鎮參加國道六號南投段開工動土典禮，並應邀致詞。",
+    "source_file": "po_zh_8342.txt",
+    "event_location": [
+      0,
+      46
+    ],
+    "time_related_expressions": [
+      [
+        "今天下午",
+        9,
+        13
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "今天下午",
+    "event_time_end": "今天下午",
+    "duration": null,
+    "utterance_time": null
+  },
+  {
+    "event_id": "po_zh_8342_2",
+    "event": "兩年前，「中二高」南投路段完工通車",
+    "source_file": "po_zh_8342.txt",
+    "event_location": [
+      248,
+      267
+    ],
+    "time_related_expressions": [
+      [
+        "兩年前",
+        248,
+        251
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "兩年前",
+    "event_time_end": "兩年前",
+    "duration": null,
+    "utterance_time": null
+  },
+  {
+    "event_id": "po_zh_8342_3",
+    "event": "隨著「第二高速公路」於今年1月全線通車",
+    "source_file": "po_zh_8342.txt",
+    "event_location": [
+      513,
+      535
+    ],
+    "time_related_expressions": [
+      [
+        "今年1月",
+        524,
+        529
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "今年1月",
+    "event_time_end": "今年1月",
+    "duration": null,
+    "utterance_time": null
+  },
+  {
+    "event_id": "po_zh_8342_4",
+    "event": "以及「高速鐵路」於明年十月開始營運通車",
+    "source_file": "po_zh_8342.txt",
+    "event_location": [
+      548,
+      570
+    ],
+    "time_related_expressions": [
+      [
+        "明年十月",
+        557,
+        561
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "明年十月",
+    "event_time_end": "明年十月",
+    "duration": null,
+    "utterance_time": null
+  },
+  {
+    "event_id": "po_zh_8342_5",
+    "event": "過去半年以來，股市與房市不斷加溫",
+    "source_file": "po_zh_8342.txt",
+    "event_location": [
+      868,
+      886
+    ],
+    "time_related_expressions": [
+      [
+        "過去半年以來",
+        868,
+        874
+      ]
+    ],
+    "event_type": "range",
+    "event_time_start": "過去半年以來",
+    "event_time_end": "過去半年以來",
+    "duration": "(min(month,6), max(month,6))",
+    "utterance_time": null
+  },
+  {
+    "event_id": "SPSP192708311019_1",
+    "event": "女士初肄業於中西女塾一九二一年考入清華官費出洋抵美後攻讀敎育管理專科三年卒業於芝加哥大學",
+    "source_file": "SPSP192708311019.txt",
+    "event_location": [
+      38,
+      96
+    ],
+    "time_related_expressions": [
+      [
+        "一九二一年",
+        46,
+        51
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "1921",
+    "event_time_end": "1921",
+    "duration": null,
+    "utterance_time": "1927-08-31"
+  },
+  {
+    "event_id": "SPSP192708311019_2",
+    "event": "一九二五年受碩士銜",
+    "source_file": "SPSP192708311019.txt",
+    "event_location": [
+      123,
+      133
+    ],
+    "time_related_expressions": [
+      [
+        "一九二五年",
+        123,
+        128
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "1925",
+    "event_time_end": "1925",
+    "duration": null,
+    "utterance_time": "1927-08-31"
+  },
+  {
+    "event_id": "SPSP192708311019_3",
+    "event": "女士已於今夏七月間取道歐洲藉以考查各國敎育狀况後始行回國",
+    "source_file": "SPSP192708311019.txt",
+    "event_location": [
+      205,
+      239
+    ],
+    "time_related_expressions": [
+      [
+        "今夏七月間",
+        209,
+        214
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "今夏七月間",
+    "event_time_end": "今夏七月間",
+    "duration": null,
+    "utterance_time": "1927-08-31"
+  },
+  {
+    "event_id": "SPSP192708311019_4",
+    "event": "倩鴻女士亦爲中西女塾高材生一九二一年赴美留學卒業於新英倫音樂專科學院",
+    "source_file": "SPSP192708311019.txt",
+    "event_location": [
+      294,
+      340
+    ],
+    "time_related_expressions": [
+      [
+        "一九二一年",
+        305,
+        310
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "1921",
+    "event_time_end": "1921",
+    "duration": null,
+    "utterance_time": "1927-08-31"
+  },
+  {
+    "event_id": "SPSP192708311019_5",
+    "event": "一九二六年春季回國現執音樂敎鞭於中西女塾母校亦有聲於學界者云",
+    "source_file": "SPSP192708311019.txt",
+    "event_location": [
+      340,
+      376
+    ],
+    "time_related_expressions": [
+      [
+        "一九二六年春季",
+        340,
+        347
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "1926年春季",
+    "event_time_end": "1926年春季",
+    "duration": null,
+    "utterance_time": "1927-08-31"
+  },
+  {
+    "event_id": "SPSP193109022001_1",
+    "event": "上海扶輪社本星期四午間十二時三十分、在老卡爾登舉行聚餐會",
+    "source_file": "SPSP193109022001.txt",
+    "event_location": [
+      8,
+      36
+    ],
+    "time_related_expressions": [
+      [
+        "本星期四午間十二時三十分",
+        13,
+        26
+      ]
+    ],
+    "event_type": "punctual",
+    "event_time_start": "本星期四午間十二時三十分",
+    "event_time_end": "本星期四午間十二時三十分",
+    "duration": null,
+    "utterance_time": "1931-09-02"
+  }
+]

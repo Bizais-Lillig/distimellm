@@ -1,6 +1,5 @@
 {
     "TW":
-
     {"events":
     [
         {"event_id": "TW_001",
@@ -61,7 +60,7 @@
         "event_idB":"TW_002",
         "relation_type" : "overlaps",
         "time_related_expressions" :"they are in the event instance, i don't know if its necessary to have it there"
-        },
+        }
     ]
     }
 }
