@@ -1,0 +1,45 @@
+{
+    "topic_record":
+    {
+    "sources":[["po_zh_2376.txt", null]],
+    "events":
+    [
+        {"event_id": "po_zh_2376_00",
+        "event_name": "有關今（二十七）日「中時晚報」及「勁報」報導「總統府公務車撞六車傷五人」乙事，因與事實不符，總統府公共事務室特此澄清。", 
+        "event_sources":
+        [{"filename": "po_zh_2376.txt",
+        "time_related_expr":["今（二十七）日"],
+        "position_in_text":["0"]}        
+        ],
+        "time_start": "Null)",
+        "time_end": "Null)",
+        "range": "Null"
+    },
+    {"event_id": "po_zh_2376_01",
+        "event_name": "今天上午在台北市羅斯福路所發生疑似暴衝之連環車禍", 
+        "event_sources":
+        [{"filename": "po_zh_2376.txt",
+        "time_related_expr":["今天上午"],
+        "position_in_text":["0"]}        
+        ],
+        "time_start": "Null)",
+        "time_end": "Null)",
+        "range": "Null"
+    }
+
+
+
+    ],
+    "event_relations":
+    [
+        {"relation_id": "event_idA_event_idB",
+        "event_idA":"",
+        "event_idB":"",
+        "relation_type": "Allen : choose between <before, equals, overlaps, during, starts, finishes, meets>",
+        "span_between": "(min(unit,value), max(unit,value)), 0, Null",
+        "relation_sources":
+            []
+    }
+    ]
+    }
+}

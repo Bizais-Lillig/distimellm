@@ -1,0 +1,2727 @@
+{
+  "event_relations": [
+    {
+      "relation_id": "po_zh_2376_00_po_zh_2376_01",
+      "event_idA": "po_zh_2376_00",
+      "event_idB": "po_zh_2376_01",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "po_zh_2376.txt",
+          "time_related_expr": [
+            "今（二十七）日",
+            "今天上午"
+          ],
+          "position_in_text": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "po_zh_8342_00_po_zh_8342_01",
+      "event_idA": "po_zh_8342_00",
+      "event_idB": "po_zh_8342_01",
+      "relation_type": "equals",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "po_zh_8342.txt",
+          "time_related_expr": [
+            "今天下午",
+            "今天"
+          ],
+          "position_in_text": [
+            7,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "po_zh_8342_00_po_zh_8342_06",
+      "event_idA": "po_zh_8342_00",
+      "event_idB": "po_zh_8342_06",
+      "relation_type": "equals",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "po_zh_8342.txt",
+          "time_related_expr": [
+            "今天下午",
+            "今天"
+          ],
+          "position_in_text": [
+            7,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "po_zh_8342_01_po_zh_8342_06",
+      "event_idA": "po_zh_8342_01",
+      "event_idB": "po_zh_8342_06",
+      "relation_type": "equals",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "po_zh_8342.txt",
+          "time_related_expr": [
+            "今天",
+            "今天"
+          ],
+          "position_in_text": [
+            0,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "po_zh_8342_03_po_zh_8342_04",
+      "event_idA": "po_zh_8342_03",
+      "event_idB": "po_zh_8342_04",
+      "relation_type": "before",
+      "span_between": "(min(month,9), max(month,9)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "po_zh_8342.txt",
+          "time_related_expr": [
+            "今年1月",
+            "明年十月"
+          ],
+          "position_in_text": [
+            11,
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "po_zh_8342_03_po_zh_8342_05",
+      "event_idA": "po_zh_8342_03",
+      "event_idB": "po_zh_8342_05",
+      "relation_type": "during",
+      "span_between": "(min(month,0), max(month,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "po_zh_8342.txt",
+          "time_related_expr": [
+            "今年1月",
+            "过去半年以来"
+          ],
+          "position_in_text": [
+            11,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "po_zh_8342_04_po_zh_8342_05",
+      "event_idA": "po_zh_8342_04",
+      "event_idB": "po_zh_8342_05",
+      "relation_type": "before",
+      "span_between": "(min(month,0), max(month,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "po_zh_8342.txt",
+          "time_related_expr": [
+            "明年十月",
+            "过去半年以来"
+          ],
+          "position_in_text": [
+            25,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_01_1319854677_03",
+      "event_idA": "1319854677_01",
+      "event_idB": "1319854677_03",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "this week",
+            "for three days"
+          ],
+          "position_in_text": [
+            40,
+            150
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_01_1319854677_04",
+      "event_idA": "1319854677_01",
+      "event_idB": "1319854677_04",
+      "relation_type": "equals",
+      "span_between": "(min(week,0), max(week,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "this week",
+            "this week"
+          ],
+          "position_in_text": [
+            40,
+            768
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_03_1319854677_04",
+      "event_idA": "1319854677_03",
+      "event_idB": "1319854677_04",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "for three days",
+            "this week"
+          ],
+          "position_in_text": [
+            150,
+            768
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_06_1319854677_07",
+      "event_idA": "1319854677_06",
+      "event_idB": "1319854677_07",
+      "relation_type": "before",
+      "span_between": "(min(day,2), max(day,2)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 12",
+            "May 10"
+          ],
+          "position_in_text": [
+            2246,
+            2886
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_06_1319854677_11",
+      "event_idA": "1319854677_06",
+      "event_idB": "1319854677_11",
+      "relation_type": "before",
+      "span_between": "(min(day,3), max(day,3)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 12",
+            "May 15"
+          ],
+          "position_in_text": [
+            2246,
+            5715
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_06_1319854677_12",
+      "event_idA": "1319854677_06",
+      "event_idB": "1319854677_12",
+      "relation_type": "before",
+      "span_between": "(min(day,3), max(day,3)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 12",
+            "May 15"
+          ],
+          "position_in_text": [
+            2246,
+            7000
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_06_1319854677_13",
+      "event_idA": "1319854677_06",
+      "event_idB": "1319854677_13",
+      "relation_type": "before",
+      "span_between": "(min(day,2), max(day,2)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 12",
+            "May 14"
+          ],
+          "position_in_text": [
+            2246,
+            7515
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_06_1319854677_16",
+      "event_idA": "1319854677_06",
+      "event_idB": "1319854677_16",
+      "relation_type": "equals",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 12",
+            "May 12"
+          ],
+          "position_in_text": [
+            2246,
+            8350
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_06_1319854677_17",
+      "event_idA": "1319854677_06",
+      "event_idB": "1319854677_17",
+      "relation_type": "before",
+      "span_between": "(min(day,2), max(day,2)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 12",
+            "May 14"
+          ],
+          "position_in_text": [
+            2246,
+            8540
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_07_1319854677_11",
+      "event_idA": "1319854677_07",
+      "event_idB": "1319854677_11",
+      "relation_type": "before",
+      "span_between": "(min(day,5), max(day,5)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 10",
+            "May 15"
+          ],
+          "position_in_text": [
+            2886,
+            5715
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_07_1319854677_12",
+      "event_idA": "1319854677_07",
+      "event_idB": "1319854677_12",
+      "relation_type": "before",
+      "span_between": "(min(day,5), max(day,5)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 10",
+            "May 15"
+          ],
+          "position_in_text": [
+            2886,
+            7000
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_07_1319854677_13",
+      "event_idA": "1319854677_07",
+      "event_idB": "1319854677_13",
+      "relation_type": "before",
+      "span_between": "(min(day,4), max(day,4)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 10",
+            "May 14"
+          ],
+          "position_in_text": [
+            2886,
+            7515
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_07_1319854677_16",
+      "event_idA": "1319854677_07",
+      "event_idB": "1319854677_16",
+      "relation_type": "before",
+      "span_between": "(min(day,2), max(day,2)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 10",
+            "May 12"
+          ],
+          "position_in_text": [
+            2886,
+            8350
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_07_1319854677_17",
+      "event_idA": "1319854677_07",
+      "event_idB": "1319854677_17",
+      "relation_type": "before",
+      "span_between": "(min(day,4), max(day,4)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 10",
+            "May 14"
+          ],
+          "position_in_text": [
+            2886,
+            8540
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_11_1319854677_12",
+      "event_idA": "1319854677_11",
+      "event_idB": "1319854677_12",
+      "relation_type": "equals",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 15",
+            "May 15"
+          ],
+          "position_in_text": [
+            5715,
+            7000
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_11_1319854677_13",
+      "event_idA": "1319854677_11",
+      "event_idB": "1319854677_13",
+      "relation_type": "before",
+      "span_between": "(min(day,1), max(day,1)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 15",
+            "May 14"
+          ],
+          "position_in_text": [
+            5715,
+            7515
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_11_1319854677_16",
+      "event_idA": "1319854677_11",
+      "event_idB": "1319854677_16",
+      "relation_type": "before",
+      "span_between": "(min(day,3), max(day,3)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 15",
+            "May 12"
+          ],
+          "position_in_text": [
+            5715,
+            8350
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_11_1319854677_17",
+      "event_idA": "1319854677_11",
+      "event_idB": "1319854677_17",
+      "relation_type": "before",
+      "span_between": "(min(day,1), max(day,1)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 15",
+            "May 14"
+          ],
+          "position_in_text": [
+            5715,
+            8540
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_12_1319854677_13",
+      "event_idA": "1319854677_12",
+      "event_idB": "1319854677_13",
+      "relation_type": "before",
+      "span_between": "(min(day,1), max(day,1)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 15",
+            "May 14"
+          ],
+          "position_in_text": [
+            7000,
+            7515
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_12_1319854677_16",
+      "event_idA": "1319854677_12",
+      "event_idB": "1319854677_16",
+      "relation_type": "before",
+      "span_between": "(min(day,3), max(day,3)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 15",
+            "May 12"
+          ],
+          "position_in_text": [
+            7000,
+            8350
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_12_1319854677_17",
+      "event_idA": "1319854677_12",
+      "event_idB": "1319854677_17",
+      "relation_type": "before",
+      "span_between": "(min(day,1), max(day,1)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 15",
+            "May 14"
+          ],
+          "position_in_text": [
+            7000,
+            8540
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_13_1319854677_14",
+      "event_idA": "1319854677_13",
+      "event_idB": "1319854677_14",
+      "relation_type": "before",
+      "span_between": "(min(day,1), max(day,1)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 14",
+            "the next evening"
+          ],
+          "position_in_text": [
+            7515,
+            7662
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_13_1319854677_16",
+      "event_idA": "1319854677_13",
+      "event_idB": "1319854677_16",
+      "relation_type": "before",
+      "span_between": "(min(day,2), max(day,2)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 14",
+            "May 12"
+          ],
+          "position_in_text": [
+            7515,
+            8350
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_13_1319854677_17",
+      "event_idA": "1319854677_13",
+      "event_idB": "1319854677_17",
+      "relation_type": "equals",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 14",
+            "May 14"
+          ],
+          "position_in_text": [
+            7515,
+            8540
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_14_1319854677_15",
+      "event_idA": "1319854677_14",
+      "event_idB": "1319854677_15",
+      "relation_type": "before",
+      "span_between": "(min(day,5), max(day,5)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "the next evening",
+            "May 20"
+          ],
+          "position_in_text": [
+            7662,
+            7894
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_14_1319854677_16",
+      "event_idA": "1319854677_14",
+      "event_idB": "1319854677_16",
+      "relation_type": "before",
+      "span_between": "(min(day,3), max(day,3)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "the next evening",
+            "May 12"
+          ],
+          "position_in_text": [
+            7662,
+            8350
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_14_1319854677_17",
+      "event_idA": "1319854677_14",
+      "event_idB": "1319854677_17",
+      "relation_type": "before",
+      "span_between": "(min(day,1), max(day,1)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "the next evening",
+            "May 14"
+          ],
+          "position_in_text": [
+            7662,
+            8540
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_15_1319854677_16",
+      "event_idA": "1319854677_15",
+      "event_idB": "1319854677_16",
+      "relation_type": "before",
+      "span_between": "(min(day,8), max(day,8)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 20",
+            "May 12"
+          ],
+          "position_in_text": [
+            7894,
+            8350
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_15_1319854677_17",
+      "event_idA": "1319854677_15",
+      "event_idB": "1319854677_17",
+      "relation_type": "before",
+      "span_between": "(min(day,6), max(day,6)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 20",
+            "May 14"
+          ],
+          "position_in_text": [
+            7894,
+            8540
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_16_1319854677_17",
+      "event_idA": "1319854677_16",
+      "event_idB": "1319854677_17",
+      "relation_type": "before",
+      "span_between": "(min(day,2), max(day,2)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "May 12",
+            "May 14"
+          ],
+          "position_in_text": [
+            8350,
+            8540
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319854677_18_1319854677_19",
+      "event_idA": "1319854677_18",
+      "event_idB": "1319854677_19",
+      "relation_type": "before",
+      "span_between": "(min(day,1), max(day,1)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319854677.txt",
+          "time_related_expr": [
+            "Thursday evening",
+            "Friday afternoon"
+          ],
+          "position_in_text": [
+            8885,
+            8987
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "INSCR-KR4d0232-WYG-f006-0002_01_INSCR-KR4d0232-WYG-f006-0002_02",
+      "event_idA": "INSCR-KR4d0232-WYG-f006-0002_01",
+      "event_idB": "INSCR-KR4d0232-WYG-f006-0002_02",
+      "relation_type": "before",
+      "span_between": "(min(year,0), max(year,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "INSCR-KR4d0232-WYG-f006-0002",
+          "time_related_expr": [
+            "乾道初元",
+            "淳熙二年秋七月"
+          ],
+          "position_in_text": [
+            6,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "INSCR-KR4d0232-WYG-f006-0002_02_INSCR-KR4d0232-WYG-f006-0002_03",
+      "event_idA": "INSCR-KR4d0232-WYG-f006-0002_02",
+      "event_idB": "INSCR-KR4d0232-WYG-f006-0002_03",
+      "relation_type": "before",
+      "span_between": "(min(month,3), max(month,3)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "INSCR-KR4d0232-WYG-f006-0002",
+          "time_related_expr": [
+            "淳熙二年秋七月",
+            "十月戊寅"
+          ],
+          "position_in_text": [
+            24,
+            79
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "INSCR-KR4d0232-WYG-f006-0002_03_INSCR-KR4d0232-WYG-f006-0002_04",
+      "event_idA": "INSCR-KR4d0232-WYG-f006-0002_03",
+      "event_idB": "INSCR-KR4d0232-WYG-f006-0002_04",
+      "relation_type": "before",
+      "span_between": "(min(month,1), max(month,1)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "INSCR-KR4d0232-WYG-f006-0002",
+          "time_related_expr": [
+            "十月戊寅",
+            "十一月丁丑"
+          ],
+          "position_in_text": [
+            79,
+            86
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "INSCR-KR4d0466-WYG-f011-0010_01_INSCR-KR4d0466-WYG-f011-0010_02",
+      "event_idA": "INSCR-KR4d0466-WYG-f011-0010_01",
+      "event_idB": "INSCR-KR4d0466-WYG-f011-0010_02",
+      "relation_type": "before",
+      "span_between": "(min(year,16), max(year,16)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "INSCR-KR4d0466-WYG-f011-0010",
+          "time_related_expr": [
+            "至元丙子",
+            "壬辰六月"
+          ],
+          "position_in_text": [
+            40,
+            53
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "INSCR-KR4d0466-WYG-f011-0010_02_INSCR-KR4d0466-WYG-f011-0010_03",
+      "event_idA": "INSCR-KR4d0466-WYG-f011-0010_02",
+      "event_idB": "INSCR-KR4d0466-WYG-f011-0010_03",
+      "relation_type": "before",
+      "span_between": "(min(month,5), max(month,5)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "INSCR-KR4d0466-WYG-f011-0010",
+          "time_related_expr": [
+            "壬辰六月",
+            "癸已十一月"
+          ],
+          "position_in_text": [
+            53,
+            78
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "INSCR-KR4d0466-WYG-f011-0010_03_INSCR-KR4d0466-WYG-f011-0010_04",
+      "event_idA": "INSCR-KR4d0466-WYG-f011-0010_03",
+      "event_idB": "INSCR-KR4d0466-WYG-f011-0010_04",
+      "relation_type": "before",
+      "span_between": "(min(month,8), max(month,8)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "INSCR-KR4d0466-WYG-f011-0010",
+          "time_related_expr": [
+            "癸已十一月",
+            "越明年七月"
+          ],
+          "position_in_text": [
+            78,
+            85
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "INSCR-KR4d0466-WYG-f011-0010_04_INSCR-KR4d0466-WYG-f011-0010_05",
+      "event_idA": "INSCR-KR4d0466-WYG-f011-0010_04",
+      "event_idB": "INSCR-KR4d0466-WYG-f011-0010_05",
+      "relation_type": "equals",
+      "span_between": "(min(year,0), max(year,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "INSCR-KR4d0466-WYG-f011-0010",
+          "time_related_expr": [
+            "越明年七月",
+            "甲午"
+          ],
+          "position_in_text": [
+            85,
+            193
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "SPSP192606271118_01_SPSP192606271118_02",
+      "event_idA": "SPSP192606271118_01",
+      "event_idB": "SPSP192606271118_02",
+      "relation_type": "before",
+      "span_between": "(min(year,0), max(year,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "/ENC/exp/cmn/SPSP192606271118.txt",
+          "time_related_expr": [
+            "八年",
+            "民國十三年八月"
+          ],
+          "position_in_text": [
+            33,
+            66
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "SPSP192606271118_02_SPSP192606271118_04",
+      "event_idA": "SPSP192606271118_02",
+      "event_idB": "SPSP192606271118_04",
+      "relation_type": "before",
+      "span_between": "(min(year,2), max(year,2)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "/ENC/exp/cmn/SPSP192606271118.txt",
+          "time_related_expr": [
+            "民國十三年八月",
+            "十五年二月"
+          ],
+          "position_in_text": [
+            66,
+            104
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "SPSP192606271118_04_SPSP192606271118_05",
+      "event_idA": "SPSP192606271118_04",
+      "event_idB": "SPSP192606271118_05",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "/ENC/exp/cmn/SPSP192606271118.txt",
+          "time_related_expr": [
+            "十五年二月"
+          ],
+          "position_in_text": [
+            104
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "SPSP192606271118_05_SPSP192606271118_06",
+      "event_idA": "SPSP192606271118_05",
+      "event_idB": "SPSP192606271118_06",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "/ENC/exp/cmn/SPSP192606271118.txt",
+          "time_related_expr": [
+            "不日"
+          ],
+          "position_in_text": [
+            151
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "SPSP192708311019_02_SPSP192708311019_03",
+      "event_idA": "SPSP192708311019_02",
+      "event_idB": "SPSP192708311019_03",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+          "time_related_expr": [
+            "一九二一年"
+          ],
+          "position_in_text": [
+            45
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "SPSP192708311019_03_SPSP192708311019_04",
+      "event_idA": "SPSP192708311019_03",
+      "event_idB": "SPSP192708311019_04",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+          "time_related_expr": [
+            "三年"
+          ],
+          "position_in_text": [
+            69
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "SPSP192708311019_04_SPSP192708311019_05",
+      "event_idA": "SPSP192708311019_04",
+      "event_idB": "SPSP192708311019_05",
+      "relation_type": "before",
+      "span_between": "(min(season,1), max(season,1)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+          "time_related_expr": [
+            "一季",
+            "一九二五年"
+          ],
+          "position_in_text": [
+            92,
+            108
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "SPSP192708311019_05_SPSP192708311019_06",
+      "event_idA": "SPSP192708311019_05",
+      "event_idB": "SPSP192708311019_06",
+      "relation_type": "before",
+      "span_between": "(min(year,2), max(year,2)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+          "time_related_expr": [
+            "一九二五年",
+            "今夏七月間"
+          ],
+          "position_in_text": [
+            108,
+            173
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "SPSP192708311019_06_SPSP192708311019_07",
+      "event_idA": "SPSP192708311019_06",
+      "event_idB": "SPSP192708311019_07",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+          "time_related_expr": [
+            "今夏七月間"
+          ],
+          "position_in_text": [
+            173
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "SPSP192708311019_08_SPSP192708311019_09",
+      "event_idA": "SPSP192708311019_08",
+      "event_idB": "SPSP192708311019_09",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+          "time_related_expr": [
+            "一九二一年"
+          ],
+          "position_in_text": [
+            271
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "SPSP192708311019_09_SPSP192708311019_10",
+      "event_idA": "SPSP192708311019_09",
+      "event_idB": "SPSP192708311019_10",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+          "time_related_expr": [
+            "一九二六年春季"
+          ],
+          "position_in_text": [
+            292
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "SPSP193109022001_01_SPSP193109022001_02",
+      "event_idA": "SPSP193109022001_01",
+      "event_idB": "SPSP193109022001_02",
+      "relation_type": "during",
+      "span_between": "(min(hour,0), max(hour,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "/ENC/rotary/cmn/SPSP193109022001.txt",
+          "time_related_expr": [
+            "本星期四午間十二時三十分"
+          ],
+          "position_in_text": [
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "SPSP192506121501_01_SPSP192506121501_02",
+      "event_idA": "SPSP192506121501_01",
+      "event_idB": "SPSP192506121501_02",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "/ENC/rotary/cmn/SPSP192506121501.txt",
+          "time_related_expr": [
+            "日前"
+          ],
+          "position_in_text": [
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_01_1319843498_02",
+      "event_idA": "1319843498_01",
+      "event_idB": "1319843498_02",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "last week",
+            "November 6"
+          ],
+          "position_in_text": [
+            319,
+            2941
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_01_1319843498_03",
+      "event_idA": "1319843498_01",
+      "event_idB": "1319843498_03",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "last week",
+            "Friday November 14"
+          ],
+          "position_in_text": [
+            319,
+            3090
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_01_1319843498_04",
+      "event_idA": "1319843498_01",
+      "event_idB": "1319843498_04",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "last week",
+            "November 14"
+          ],
+          "position_in_text": [
+            319,
+            3197
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_01_1319843498_05",
+      "event_idA": "1319843498_01",
+      "event_idB": "1319843498_05",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "last week",
+            "November 21"
+          ],
+          "position_in_text": [
+            319,
+            3197
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_01_1319843498_06",
+      "event_idA": "1319843498_01",
+      "event_idB": "1319843498_06",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "last week",
+            "October 29"
+          ],
+          "position_in_text": [
+            319,
+            3426
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_01_1319843498_08",
+      "event_idA": "1319843498_01",
+      "event_idB": "1319843498_08",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "last week",
+            "Novem ber xi"
+          ],
+          "position_in_text": [
+            319,
+            3890
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_01_1319843498_09",
+      "event_idA": "1319843498_01",
+      "event_idB": "1319843498_09",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "last week",
+            "No vember 2"
+          ],
+          "position_in_text": [
+            319,
+            4155
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_01_1319843498_11",
+      "event_idA": "1319843498_01",
+      "event_idB": "1319843498_11",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "last week",
+            "November 11"
+          ],
+          "position_in_text": [
+            319,
+            4698
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_01_1319843498_14",
+      "event_idA": "1319843498_01",
+      "event_idB": "1319843498_14",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "last week",
+            "November 8"
+          ],
+          "position_in_text": [
+            319,
+            5433
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_01_1319843498_15",
+      "event_idA": "1319843498_01",
+      "event_idB": "1319843498_15",
+      "relation_type": "before",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "last week",
+            "November 8"
+          ],
+          "position_in_text": [
+            319,
+            5837
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_02_1319843498_03",
+      "event_idA": "1319843498_02",
+      "event_idB": "1319843498_03",
+      "relation_type": "before",
+      "span_between": "(min(day,8), max(day,8)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 6",
+            "November 14"
+          ],
+          "position_in_text": [
+            2941,
+            3090
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_02_1319843498_04",
+      "event_idA": "1319843498_02",
+      "event_idB": "1319843498_04",
+      "relation_type": "before",
+      "span_between": "(min(day,8), max(day,8)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 6",
+            "November 14"
+          ],
+          "position_in_text": [
+            2941,
+            3197
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_02_1319843498_05",
+      "event_idA": "1319843498_02",
+      "event_idB": "1319843498_05",
+      "relation_type": "before",
+      "span_between": "(min(day,15), max(day,15)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 6",
+            "November 21"
+          ],
+          "position_in_text": [
+            2941,
+            3197
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_02_1319843498_06",
+      "event_idA": "1319843498_02",
+      "event_idB": "1319843498_06",
+      "relation_type": "before",
+      "span_between": "(min(day,8), max(day,8)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 6",
+            "October 29"
+          ],
+          "position_in_text": [
+            2941,
+            3426
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_02_1319843498_08",
+      "event_idA": "1319843498_02",
+      "event_idB": "1319843498_08",
+      "relation_type": "before",
+      "span_between": "(min(day,5), max(day,5)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 6",
+            "Novem ber xi"
+          ],
+          "position_in_text": [
+            2941,
+            3890
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_02_1319843498_09",
+      "event_idA": "1319843498_02",
+      "event_idB": "1319843498_09",
+      "relation_type": "before",
+      "span_between": "(min(day,4), max(day,4)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 6",
+            "No vember 2"
+          ],
+          "position_in_text": [
+            2941,
+            4155
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_02_1319843498_11",
+      "event_idA": "1319843498_02",
+      "event_idB": "1319843498_11",
+      "relation_type": "before",
+      "span_between": "(min(day,5), max(day,5)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 6",
+            "November 11"
+          ],
+          "position_in_text": [
+            2941,
+            4698
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_02_1319843498_14",
+      "event_idA": "1319843498_02",
+      "event_idB": "1319843498_14",
+      "relation_type": "before",
+      "span_between": "(min(day,2), max(day,2)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 6",
+            "November 8"
+          ],
+          "position_in_text": [
+            2941,
+            5433
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_02_1319843498_15",
+      "event_idA": "1319843498_02",
+      "event_idB": "1319843498_15",
+      "relation_type": "before",
+      "span_between": "(min(day,2), max(day,2)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 6",
+            "November 8"
+          ],
+          "position_in_text": [
+            2941,
+            5837
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_03_1319843498_04",
+      "event_idA": "1319843498_03",
+      "event_idB": "1319843498_04",
+      "relation_type": "equals",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "Friday November 14",
+            "November 14"
+          ],
+          "position_in_text": [
+            3090,
+            3197
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_03_1319843498_05",
+      "event_idA": "1319843498_03",
+      "event_idB": "1319843498_05",
+      "relation_type": "before",
+      "span_between": "(min(day,7), max(day,7)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "Friday November 14",
+            "November 21"
+          ],
+          "position_in_text": [
+            3090,
+            3197
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_03_1319843498_06",
+      "event_idA": "1319843498_03",
+      "event_idB": "1319843498_06",
+      "relation_type": "before",
+      "span_between": "(min(day,16), max(day,16)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "Friday November 14",
+            "October 29"
+          ],
+          "position_in_text": [
+            3090,
+            3426
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_03_1319843498_08",
+      "event_idA": "1319843498_03",
+      "event_idB": "1319843498_08",
+      "relation_type": "before",
+      "span_between": "(min(day,3), max(day,3)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "Friday November 14",
+            "Novem ber xi"
+          ],
+          "position_in_text": [
+            3090,
+            3890
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_03_1319843498_09",
+      "event_idA": "1319843498_03",
+      "event_idB": "1319843498_09",
+      "relation_type": "before",
+      "span_between": "(min(day,12), max(day,12)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "Friday November 14",
+            "No vember 2"
+          ],
+          "position_in_text": [
+            3090,
+            4155
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_03_1319843498_11",
+      "event_idA": "1319843498_03",
+      "event_idB": "1319843498_11",
+      "relation_type": "before",
+      "span_between": "(min(day,3), max(day,3)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "Friday November 14",
+            "November 11"
+          ],
+          "position_in_text": [
+            3090,
+            4698
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_03_1319843498_14",
+      "event_idA": "1319843498_03",
+      "event_idB": "1319843498_14",
+      "relation_type": "before",
+      "span_between": "(min(day,6), max(day,6)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "Friday November 14",
+            "November 8"
+          ],
+          "position_in_text": [
+            3090,
+            5433
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_03_1319843498_15",
+      "event_idA": "1319843498_03",
+      "event_idB": "1319843498_15",
+      "relation_type": "before",
+      "span_between": "(min(day,6), max(day,6)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "Friday November 14",
+            "November 8"
+          ],
+          "position_in_text": [
+            3090,
+            5837
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_04_1319843498_05",
+      "event_idA": "1319843498_04",
+      "event_idB": "1319843498_05",
+      "relation_type": "before",
+      "span_between": "(min(day,7), max(day,7)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 14",
+            "November 21"
+          ],
+          "position_in_text": [
+            3197,
+            3197
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_04_1319843498_06",
+      "event_idA": "1319843498_04",
+      "event_idB": "1319843498_06",
+      "relation_type": "before",
+      "span_between": "(min(day,16), max(day,16)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 14",
+            "October 29"
+          ],
+          "position_in_text": [
+            3197,
+            3426
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_04_1319843498_08",
+      "event_idA": "1319843498_04",
+      "event_idB": "1319843498_08",
+      "relation_type": "before",
+      "span_between": "(min(day,3), max(day,3)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 14",
+            "Novem ber xi"
+          ],
+          "position_in_text": [
+            3197,
+            3890
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_04_1319843498_09",
+      "event_idA": "1319843498_04",
+      "event_idB": "1319843498_09",
+      "relation_type": "before",
+      "span_between": "(min(day,12), max(day,12)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 14",
+            "No vember 2"
+          ],
+          "position_in_text": [
+            3197,
+            4155
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_04_1319843498_11",
+      "event_idA": "1319843498_04",
+      "event_idB": "1319843498_11",
+      "relation_type": "before",
+      "span_between": "(min(day,3), max(day,3)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 14",
+            "November 11"
+          ],
+          "position_in_text": [
+            3197,
+            4698
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_04_1319843498_14",
+      "event_idA": "1319843498_04",
+      "event_idB": "1319843498_14",
+      "relation_type": "before",
+      "span_between": "(min(day,6), max(day,6)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 14",
+            "November 8"
+          ],
+          "position_in_text": [
+            3197,
+            5433
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_04_1319843498_15",
+      "event_idA": "1319843498_04",
+      "event_idB": "1319843498_15",
+      "relation_type": "before",
+      "span_between": "(min(day,6), max(day,6)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 14",
+            "November 8"
+          ],
+          "position_in_text": [
+            3197,
+            5837
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_05_1319843498_06",
+      "event_idA": "1319843498_05",
+      "event_idB": "1319843498_06",
+      "relation_type": "before",
+      "span_between": "(min(day,23), max(day,23)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 21",
+            "October 29"
+          ],
+          "position_in_text": [
+            3197,
+            3426
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_05_1319843498_08",
+      "event_idA": "1319843498_05",
+      "event_idB": "1319843498_08",
+      "relation_type": "before",
+      "span_between": "(min(day,10), max(day,10)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 21",
+            "Novem ber xi"
+          ],
+          "position_in_text": [
+            3197,
+            3890
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_05_1319843498_09",
+      "event_idA": "1319843498_05",
+      "event_idB": "1319843498_09",
+      "relation_type": "before",
+      "span_between": "(min(day,19), max(day,19)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 21",
+            "No vember 2"
+          ],
+          "position_in_text": [
+            3197,
+            4155
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_05_1319843498_11",
+      "event_idA": "1319843498_05",
+      "event_idB": "1319843498_11",
+      "relation_type": "before",
+      "span_between": "(min(day,10), max(day,10)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 21",
+            "November 11"
+          ],
+          "position_in_text": [
+            3197,
+            4698
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_05_1319843498_14",
+      "event_idA": "1319843498_05",
+      "event_idB": "1319843498_14",
+      "relation_type": "before",
+      "span_between": "(min(day,13), max(day,13)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 21",
+            "November 8"
+          ],
+          "position_in_text": [
+            3197,
+            5433
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_05_1319843498_15",
+      "event_idA": "1319843498_05",
+      "event_idB": "1319843498_15",
+      "relation_type": "before",
+      "span_between": "(min(day,13), max(day,13)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 21",
+            "November 8"
+          ],
+          "position_in_text": [
+            3197,
+            5837
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_06_1319843498_07",
+      "event_idA": "1319843498_06",
+      "event_idB": "1319843498_07",
+      "relation_type": "before",
+      "span_between": "(min(month,4), max(month,4)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "October 29",
+            "in June"
+          ],
+          "position_in_text": [
+            3426,
+            3459
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_06_1319843498_08",
+      "event_idA": "1319843498_06",
+      "event_idB": "1319843498_08",
+      "relation_type": "before",
+      "span_between": "(min(day,13), max(day,13)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "October 29",
+            "Novem ber xi"
+          ],
+          "position_in_text": [
+            3426,
+            3890
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_06_1319843498_09",
+      "event_idA": "1319843498_06",
+      "event_idB": "1319843498_09",
+      "relation_type": "before",
+      "span_between": "(min(day,4), max(day,4)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "October 29",
+            "No vember 2"
+          ],
+          "position_in_text": [
+            3426,
+            4155
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_06_1319843498_11",
+      "event_idA": "1319843498_06",
+      "event_idB": "1319843498_11",
+      "relation_type": "before",
+      "span_between": "(min(day,13), max(day,13)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "October 29",
+            "November 11"
+          ],
+          "position_in_text": [
+            3426,
+            4698
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_06_1319843498_14",
+      "event_idA": "1319843498_06",
+      "event_idB": "1319843498_14",
+      "relation_type": "before",
+      "span_between": "(min(day,10), max(day,10)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "October 29",
+            "November 8"
+          ],
+          "position_in_text": [
+            3426,
+            5433
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_06_1319843498_15",
+      "event_idA": "1319843498_06",
+      "event_idB": "1319843498_15",
+      "relation_type": "before",
+      "span_between": "(min(day,10), max(day,10)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "October 29",
+            "November 8"
+          ],
+          "position_in_text": [
+            3426,
+            5837
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_07_1319843498_08",
+      "event_idA": "1319843498_07",
+      "event_idB": "1319843498_08",
+      "relation_type": "before",
+      "span_between": "(min(month,5), max(month,5)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "in June",
+            "Novem ber xi"
+          ],
+          "position_in_text": [
+            3459,
+            3890
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_07_1319843498_09",
+      "event_idA": "1319843498_07",
+      "event_idB": "1319843498_09",
+      "relation_type": "before",
+      "span_between": "(min(month,4), max(month,4)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "in June",
+            "No vember 2"
+          ],
+          "position_in_text": [
+            3459,
+            4155
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_07_1319843498_11",
+      "event_idA": "1319843498_07",
+      "event_idB": "1319843498_11",
+      "relation_type": "before",
+      "span_between": "(min(month,5), max(month,5)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "in June",
+            "November 11"
+          ],
+          "position_in_text": [
+            3459,
+            4698
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_07_1319843498_14",
+      "event_idA": "1319843498_07",
+      "event_idB": "1319843498_14",
+      "relation_type": "before",
+      "span_between": "(min(month,5), max(month,5)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "in June",
+            "November 8"
+          ],
+          "position_in_text": [
+            3459,
+            5433
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_07_1319843498_15",
+      "event_idA": "1319843498_07",
+      "event_idB": "1319843498_15",
+      "relation_type": "before",
+      "span_between": "(min(month,5), max(month,5)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "in June",
+            "November 8"
+          ],
+          "position_in_text": [
+            3459,
+            5837
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_08_1319843498_09",
+      "event_idA": "1319843498_08",
+      "event_idB": "1319843498_09",
+      "relation_type": "before",
+      "span_between": "(min(day,9), max(day,9)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "Novem ber xi",
+            "No vember 2"
+          ],
+          "position_in_text": [
+            3890,
+            4155
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_08_1319843498_11",
+      "event_idA": "1319843498_08",
+      "event_idB": "1319843498_11",
+      "relation_type": "equals",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "Novem ber xi",
+            "November 11"
+          ],
+          "position_in_text": [
+            3890,
+            4698
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_08_1319843498_14",
+      "event_idA": "1319843498_08",
+      "event_idB": "1319843498_14",
+      "relation_type": "before",
+      "span_between": "(min(day,3), max(day,3)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "Novem ber xi",
+            "November 8"
+          ],
+          "position_in_text": [
+            3890,
+            5433
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_08_1319843498_15",
+      "event_idA": "1319843498_08",
+      "event_idB": "1319843498_15",
+      "relation_type": "before",
+      "span_between": "(min(day,3), max(day,3)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "Novem ber xi",
+            "November 8"
+          ],
+          "position_in_text": [
+            3890,
+            5837
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_09_1319843498_10",
+      "event_idA": "1319843498_09",
+      "event_idB": "1319843498_10",
+      "relation_type": "before",
+      "span_between": "(min(month,1), max(month,1)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "No vember 2",
+            "in December"
+          ],
+          "position_in_text": [
+            4155,
+            4510
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_09_1319843498_11",
+      "event_idA": "1319843498_09",
+      "event_idB": "1319843498_11",
+      "relation_type": "before",
+      "span_between": "(min(day,9), max(day,9)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "No vember 2",
+            "November 11"
+          ],
+          "position_in_text": [
+            4155,
+            4698
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_09_1319843498_14",
+      "event_idA": "1319843498_09",
+      "event_idB": "1319843498_14",
+      "relation_type": "before",
+      "span_between": "(min(day,6), max(day,6)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "No vember 2",
+            "November 8"
+          ],
+          "position_in_text": [
+            4155,
+            5433
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_09_1319843498_15",
+      "event_idA": "1319843498_09",
+      "event_idB": "1319843498_15",
+      "relation_type": "before",
+      "span_between": "(min(day,6), max(day,6)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "No vember 2",
+            "November 8"
+          ],
+          "position_in_text": [
+            4155,
+            5837
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_10_1319843498_11",
+      "event_idA": "1319843498_10",
+      "event_idB": "1319843498_11",
+      "relation_type": "after",
+      "span_between": "(min(month,1), max(month,1)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "in December",
+            "November 11"
+          ],
+          "position_in_text": [
+            4510,
+            4698
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_10_1319843498_14",
+      "event_idA": "1319843498_10",
+      "event_idB": "1319843498_14",
+      "relation_type": "after",
+      "span_between": "(min(month,1), max(month,1)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "in December",
+            "November 8"
+          ],
+          "position_in_text": [
+            4510,
+            5433
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_10_1319843498_15",
+      "event_idA": "1319843498_10",
+      "event_idB": "1319843498_15",
+      "relation_type": "after",
+      "span_between": "(min(month,1), max(month,1)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "in December",
+            "November 8"
+          ],
+          "position_in_text": [
+            4510,
+            5837
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_11_1319843498_12",
+      "event_idA": "1319843498_11",
+      "event_idB": "1319843498_12",
+      "relation_type": "during",
+      "span_between": "(min(hour,0), max(hour,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 11",
+            "About 12:30 o clock"
+          ],
+          "position_in_text": [
+            4698,
+            5007
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_11_1319843498_13",
+      "event_idA": "1319843498_11",
+      "event_idB": "1319843498_13",
+      "relation_type": "during",
+      "span_between": "(min(hour,0), max(hour,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 11",
+            "During the supper hour"
+          ],
+          "position_in_text": [
+            4698,
+            5092
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_11_1319843498_14",
+      "event_idA": "1319843498_11",
+      "event_idB": "1319843498_14",
+      "relation_type": "before",
+      "span_between": "(min(day,3), max(day,3)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 11",
+            "November 8"
+          ],
+          "position_in_text": [
+            4698,
+            5433
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_11_1319843498_15",
+      "event_idA": "1319843498_11",
+      "event_idB": "1319843498_15",
+      "relation_type": "before",
+      "span_between": "(min(day,3), max(day,3)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 11",
+            "November 8"
+          ],
+          "position_in_text": [
+            4698,
+            5837
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_12_1319843498_13",
+      "event_idA": "1319843498_12",
+      "event_idB": "1319843498_13",
+      "relation_type": "starts",
+      "span_between": "(min(hour,0), max(hour,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "About 12:30 o clock",
+            "During the supper hour"
+          ],
+          "position_in_text": [
+            5007,
+            5092
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_12_1319843498_14",
+      "event_idA": "1319843498_12",
+      "event_idB": "1319843498_14",
+      "relation_type": "after",
+      "span_between": "(min(day,3), max(day,3)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "About 12:30 o clock",
+            "November 8"
+          ],
+          "position_in_text": [
+            5007,
+            5433
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_12_1319843498_15",
+      "event_idA": "1319843498_12",
+      "event_idB": "1319843498_15",
+      "relation_type": "after",
+      "span_between": "(min(day,3), max(day,3)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "About 12:30 o clock",
+            "November 8"
+          ],
+          "position_in_text": [
+            5007,
+            5837
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_13_1319843498_14",
+      "event_idA": "1319843498_13",
+      "event_idB": "1319843498_14",
+      "relation_type": "after",
+      "span_between": "(min(day,3), max(day,3)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "During the supper hour",
+            "November 8"
+          ],
+          "position_in_text": [
+            5092,
+            5433
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_13_1319843498_15",
+      "event_idA": "1319843498_13",
+      "event_idB": "1319843498_15",
+      "relation_type": "after",
+      "span_between": "(min(day,3), max(day,3)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "During the supper hour",
+            "November 8"
+          ],
+          "position_in_text": [
+            5092,
+            5837
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "1319843498_14_1319843498_15",
+      "event_idA": "1319843498_14",
+      "event_idB": "1319843498_15",
+      "relation_type": "equals",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "1319843498.txt",
+          "time_related_expr": [
+            "November 8",
+            "November 8"
+          ],
+          "position_in_text": [
+            5433,
+            5837
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "TW_001_TW_002",
+      "event_idA": "TW_001",
+      "event_idB": "TW_002",
+      "relation_type": "equals",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "/TW/po/eng/po_en_1.txt",
+          "time_related_expr": [
+            "on the morning of July 30",
+            "Meeting the delegation"
+          ],
+          "position_in_text": [
+            31,
+            156
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "TW_001_TW_003",
+      "event_idA": "TW_001",
+      "event_idB": "TW_003",
+      "relation_type": "during",
+      "span_between": "(min(year,0), max(year,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "/TW/po/eng/po_en_1.txt",
+          "time_related_expr": [
+            "on the morning of July 30",
+            "Over the years"
+          ],
+          "position_in_text": [
+            31,
+            1562
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "TW_002_TW_003",
+      "event_idA": "TW_002",
+      "event_idB": "TW_003",
+      "relation_type": "during",
+      "span_between": "(min(year,0), max(year,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "/TW/po/eng/po_en_1.txt",
+          "time_related_expr": [
+            "Meeting the delegation",
+            "Over the years"
+          ],
+          "position_in_text": [
+            156,
+            1562
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "TW_001_po_zh_8342_00",
+      "event_idA": "TW_001",
+      "event_idB": "po_zh_8342_00",
+      "relation_type": "equals",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "/TW/po/eng/po_en_1669.txt",
+          "time_related_expr": [
+            "Feb. 25"
+          ],
+          "position_in_text": [
+            8
+          ]
+        },
+        {
+          "filename": "po_zh_8342.txt",
+          "time_related_expr": [
+            "今天下午"
+          ],
+          "position_in_text": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "TW_001_po_zh_8342_01",
+      "event_idA": "TW_001",
+      "event_idB": "po_zh_8342_01",
+      "relation_type": "equals",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "/TW/po/eng/po_en_1669.txt",
+          "time_related_expr": [
+            "Feb. 25"
+          ],
+          "position_in_text": [
+            8
+          ]
+        },
+        {
+          "filename": "po_zh_8342.txt",
+          "time_related_expr": [
+            "今天"
+          ],
+          "position_in_text": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "relation_id": "TW_001_po_zh_8342_06",
+      "event_idA": "TW_001",
+      "event_idB": "po_zh_8342_06",
+      "relation_type": "equals",
+      "span_between": "(min(day,0), max(day,0)), 0, Null",
+      "relation_sources": [
+        {
+          "filename": "/TW/po/eng/po_en_1669.txt",
+          "time_related_expr": [
+            "Feb. 25"
+          ],
+          "position_in_text": [
+            8
+          ]
+        },
+        {
+          "filename": "po_zh_8342.txt",
+          "time_related_expr": [
+            "今天"
+          ],
+          "position_in_text": [
+            3
+          ]
+        }
+      ]
+    }
+  ]
+}

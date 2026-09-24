@@ -1,0 +1,65 @@
+{
+    "topic_record": {
+        "sources": [
+            [
+                "/ENC/rotary/cmn/SPSP193109022001.txt",
+                "1931-09-02"
+            ]
+        ],
+        "events": [
+            {
+                "event_id": "SPSP193109022001_01",
+                "event_name": "扶輪社明日聚餐會上海扶輪社本星期四午間十二時三十分、在老卡爾登舉行聚餐會",
+                "event_sources": [
+                    {
+                        "filename": "/ENC/rotary/cmn/SPSP193109022001.txt",
+                        "time_related_expr": [
+                            "明日",
+                            "本星期四午間十二時三十分"
+                        ],
+                        "position_in_text": [
+                            3,
+                            13
+                        ]
+                    }
+                ],
+                "time_start": [
+                    "1931-09-03T12:30",
+                    "1931-09-03T12:30"
+                ],
+                "time_end": null,
+                "range": null
+            },
+            {
+                "event_id": "SPSP193109022001_02",
+                "event_name": "請安德魯博士演講最近探險蒙古沙漠情形",
+                "event_sources": [
+                    {
+                        "filename": "/ENC/rotary/cmn/SPSP193109022001.txt",
+                        "time_related_expr": [],
+                        "position_in_text": []
+                    }
+                ],
+                "time_start": null,
+                "time_end": null,
+                "range": null
+            }
+        ],
+        "event_relations": [
+            {
+                "relation_id": "SPSP193109022001_02_SPSP193109022001_01",
+                "event_idA": "SPSP193109022001_02",
+                "event_idB": "SPSP193109022001_01",
+                "relation_type": "during",
+                "span_between": null,
+                "relation_sources": [
+                    {
+                        "filename": "/ENC/rotary/cmn/SPSP193109022001.txt",
+                        "time_related_expr": [],
+                        "position_in_text": []
+                    }
+                ]
+            }
+        ]
+    }
+}

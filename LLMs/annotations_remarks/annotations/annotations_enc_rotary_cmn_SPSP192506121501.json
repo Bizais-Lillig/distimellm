@@ -1,0 +1,67 @@
+{
+    "topic_record": {
+        "sources": [
+            [
+                "/ENC/rotary/cmn/SPSP192506121501.txt",
+                "1925-06-12"
+            ]
+        ],
+        "events": [
+            {
+                "event_id": "SPSP192506121501_01",
+                "event_name": "天津扶輪社電上海扶輪社日前接天津扶輪社來電略謂天津扶輪社同人敬以同氣之誼致候上海扶輪社諸君並貢其對於目今風潮之同情",
+                "event_sources": [
+                    {
+                        "filename": "/ENC/rotary/cmn/SPSP192506121501.txt",
+                        "time_related_expr": [
+                            "日前"
+                        ],
+                        "position_in_text": [
+                            11
+                        ]
+                    }
+                ],
+                "time_start": [
+                    "1925-06-XX",
+                    "1925-06-XX"
+                ],
+                "time_end": null,
+                "range": null
+            },
+            {
+                "event_id": "SPSP192506121501_02",
+                "event_name": "該社當即擬覆略謂敬問起居卓見深合私衷同人等正盡力重建相尊相信之原則",
+                "event_sources": [
+                    {
+                        "filename": "/ENC/rotary/cmn/SPSP192506121501.txt",
+                        "time_related_expr": [],
+                        "position_in_text": []
+                    }
+                ],
+                "time_start": null,
+                "time_end": null,
+                "range": null
+            }
+        ],
+        "event_relations": [
+            {
+                "relation_id": "SPSP192506121501_01_SPSP192506121501_02",
+                "event_idA": "SPSP192506121501_01",
+                "event_idB": "SPSP192506121501_02",
+                "relation_type": "before",
+                "span_between": null,
+                "relation_sources": [
+                    {
+                        "filename": "/ENC/rotary/cmn/SPSP192506121501.txt",
+                        "time_related_expr": [
+                            "當即"
+                        ],
+                        "position_in_text": [
+                            123
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
