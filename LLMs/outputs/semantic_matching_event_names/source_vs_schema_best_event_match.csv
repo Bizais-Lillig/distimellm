@@ -1,0 +1,59 @@
+﻿source_event_id,source_event_name,source_file,schema_event_id,schema_event_name,cosine_similarity
+1319843498_01,120 women enrolled in a ten-day course of lectures in Shanghai,annotations_enc_rotary_en_1319843498.json,1319843498_1,120 women enrolled for ten days course of lectures,0.8083122328480334
+1319843498_02,"Jean Alvalyn born to Mr and Mrs Cannon at Foochow, China",annotations_enc_rotary_en_1319843498.json,1319843498_2,Jean Alvalyn was born to Mr and Mrs Cannon at Foochow,0.9214568589781039
+1319843498_03,"Social evening, hearts drive and dance at the Municipal Service Club",annotations_enc_rotary_en_1319843498.json,1319843498_3,social evening hearts drive and dance will be held in the Municipal Service Club,0.9056105716144054
+1319843498_04,"Mrs George Fryer at home to friends at No 4 Edinburgh Road, Shanghai",annotations_enc_rotary_en_1319843498.json,1319843498_4,Mrs George Fryer will be at home to her freinds,0.6591792724207118
+1319843498_05,"Mrs George Fryer at home to friends at No 4 Edinburgh Road, Shanghai",annotations_enc_rotary_en_1319843498.json,1319843498_4,Mrs George Fryer will be at home to her freinds,0.6591792724207118
+1319843498_06,"Marriage of Dr Amy Metcalf and Capt Albert Bowen announced, Tours, France",annotations_enc_rotary_en_1319843498.json,1319843498_5,announcement is made of the marriage of Dr Amy Metcalf and Capt Albert Bowen,0.8415184415228796
+1319843498_07,Mrs Bowen left China for France,annotations_enc_rotary_en_1319843498.json,1319843498_6,Mrs Bowen left China for France,0.9999999999999999
+1319843498_08,Reception for parents given by faculty of the Shanghai American School,annotations_enc_rotary_en_1319843498.json,1319843498_7,reception was given to parents and their friends by the faculty,0.701987090629036
+1319843498_09,"Wedding of John Bristow and Miss Frances Helen Blair at Hankow, China",annotations_enc_rotary_en_1319843498.json,1319843498_8,wedding took place at Hankow China of John Bristow and Miss Frances Helen Blair,0.8959559223353634
+1319843498_10,"Couple departed on wedding trip to Chungking, planning to return to Shanghai",annotations_enc_rotary_en_1319843498.json,1319843498_9,They departed on their wedding trip to Chungking,0.7368812084593214
+1319843498_11,Armistice celebration at the Shanghai Club,annotations_enc_rotary_en_1319843498.json,1319843498_11,Armistice celebration at the Shanghai Club,1.0000000000000002
+1319843498_12,Guests assembled in the banquet hall for supper,annotations_enc_rotary_en_1319843498.json,1319854677_2,Bitter opposition has been raised among all classes of people in Peking against the newly proposed police tax,0.4151296815382635
+1319843498_13,Vocal solos rendered in the ballroom during the supper hour,annotations_enc_rotary_en_1319843498.json,1319843498_3,social evening hearts drive and dance will be held in the Municipal Service Club,0.42876945615978235
+1319843498_14,American Woman's Club decides to hold an informal dinner for Navy officers and men,annotations_enc_rotary_en_1319843498.json,1319843498_13,dinner given by YangTcheng Commissioner of Foreign Affairs at the Naval Club,0.507682961881257
+1319843498_15,"Dinner given by YangTcheng, Commissioner of Foreign Affairs, at the Naval Club",annotations_enc_rotary_en_1319843498.json,1319843498_13,dinner given by YangTcheng Commissioner of Foreign Affairs at the Naval Club,0.9603376632293492
+1319854677_01,"Proclamations issued enjoining slaughter of pigs, oxen, sheep and goats for three days",annotations_enc_rotary_en_1319854677.json,1319854677_1,Proclamations were issued enjoining the slaughter of pigs oxen sheep and goats,0.8815453130075801
+1319854677_03,Peking officials prayed for rain; people ate stale meat for three days,annotations_enc_rotary_en_1319854677.json,1319854677_2,Bitter opposition has been raised among all classes of people in Peking against the newly proposed police tax,0.5114893599567907
+1319854677_04,Bitter opposition raised against the newly proposed police tax,annotations_enc_rotary_en_1319854677.json,1319854677_2,Bitter opposition has been raised among all classes of people in Peking against the newly proposed police tax,0.8457474416629063
+1319854677_05,"About 180 Peiyang students quartered themselves in the ministry of education, threatening to stay",annotations_enc_rotary_en_1319854677.json,1319854677_5,By presidential mandates issued Yueh Chao-chu was appointed minister to Mexico and Chang Chien Jr was appointed minister to Chile,0.47239904859383414
+1319854677_06,"Liang Tun-yen, former minister of communications, died of pneumonia at his Peking residence",annotations_enc_rotary_en_1319854677.json,po_en_1669_1,President Chen Shui-bian presided over a ceremony to kick off construction of the Nantou section,0.525198570831138
+1319854677_07,General Li Yuan-hung returned to his Tientsin residence from a long visit in Japan,annotations_enc_rotary_en_1319854677.json,1319854677_4,General Li Yuan-hung returned to his Tientsin resilience from long visit in Japan,0.9610056280767575
+1319854677_08,Presidential mandates appointed Yueh Chao-chu minister to Mexico and Chang Chien Jr minister to Chile,annotations_enc_rotary_en_1319854677.json,1319854677_5,By presidential mandates issued Yueh Chao-chu was appointed minister to Mexico and Chang Chien Jr was appointed minister to Chile,0.9285082365221745
+1319854677_09,Two main lines of the Peking tramways to begin operation,annotations_enc_rotary_en_1319854677.json,1319854677_6,two of the main lines of the Peking tramways will be operation,0.8704193799749039
+1319854677_10,Fliers practising day and night in and around Peking,annotations_enc_rotary_en_1319854677.json,1319854677_4,General Li Yuan-hung returned to his Tientsin resilience from long visit in Japan,0.4175378089878077
+1319854677_11,"About 200 Chinese held a meeting in Central Park, Peking, and resolved that the government request closure of the British Legation Guards' Club",annotations_enc_rotary_en_1319854677.json,1319854677_7,held meeting in the Central Park of Peking,0.6245886139377652
+1319854677_12,"Burgess, secretary of the Community Service department, left Peking for Shanghai on an inspection tour",annotations_enc_rotary_en_1319854677.json,po_en_1669_1,President Chen Shui-bian presided over a ceremony to kick off construction of the Nantou section,0.5451172816951037
+1319854677_13,"Dr Jacob Gould Schurman, American Minister to China, and Mrs Schurman left Peking",annotations_enc_rotary_en_1319854677.json,1319854677_9,Dr Jacob Gould Schurman left Peking for Tientsin,0.7459830688277
+1319854677_14,They left for Taian for a sightseeing trip up the sacred mountain of Taishan,annotations_enc_rotary_en_1319854677.json,1319843498_9,They departed on their wedding trip to Chungking,0.45927539110979065
+1319854677_15,Mrs Schurman to return to Peking; Dr Schurman to proceed to Shanghai then return to Peking,annotations_enc_rotary_en_1319854677.json,1319843498_10,returning in December to Shanghai,0.5296046749253279
+1319854677_16,"General William Conner, aides, and Mr Peck left Peking for Loyang to be guests of General Wu Pei-fu",annotations_enc_rotary_en_1319854677.json,1319854677_10,General William Conner left Peking for Loyang,0.7684943710096199
+1319854677_17,"Hiram Cleaver, ex-president of the Continental Oil Company, and Mrs Cleaver arrived in Peking on a world tour",annotations_enc_rotary_en_1319854677.json,1319854677_11,Hiram Cleaver and Mrs Cleaver arrived in Peking,0.7382340374130448
+1319854677_18,An unidentified messenger brought a package to Dr Wellington Koo's residence,annotations_enc_rotary_en_1319854677.json,po_en_1669_1,President Chen Shui-bian presided over a ceremony to kick off construction of the Nantou section,0.47397992242843834
+1319854677_19,"Dr Koo ordered a package opened, resulting in an explosion",annotations_enc_rotary_en_1319854677.json,1319854677_2,Bitter opposition has been raised among all classes of people in Peking against the newly proposed police tax,0.45227428600501635
+INSCR-KR4d0232-WYG-f006-0002_01,始作浮梁,INSCR-KR4d0232-WYG-f006-0002.json,KR4d0232-WYG-f006-0002_1,陳侯森始作浮梁,0.6713160889291646
+INSCR-KR4d0232-WYG-f006-0002_02,漂航斷笮／橋毁,INSCR-KR4d0232-WYG-f006-0002.json,KR4d0232-WYG-f006-0002_2,甚雨淫潦漂航斷笮,0.42620190231359817
+INSCR-KR4d0232-WYG-f006-0002_03,造端,INSCR-KR4d0232-WYG-f006-0002.json,KR4d0232-WYG-f006-0002_3,趙景明復新之橋造端,0.3397153497318247
+INSCR-KR4d0232-WYG-f006-0002_04,告具,INSCR-KR4d0232-WYG-f006-0002.json,KR4d0232-WYG-f006-0002_4,橋告具,0.7078558509352899
+INSCR-KR4d0466-WYG-f011-0010_01,燬焉／中厄於數,INSCR-KR4d0466-WYG-f011-0010.json,KR4d0466-WYG-f011-0010_1,橋燬,0.13347847192493859
+INSCR-KR4d0466-WYG-f011-0010_02,度材鳩工,INSCR-KR4d0466-WYG-f011-0010.json,po_zh_8342_1,陳總統水扁先生前往南投縣埔里鎮參加國道六號南投段開工動土典禮,0.024285293423542752
+INSCR-KR4d0466-WYG-f011-0010_03,始事,INSCR-KR4d0466-WYG-f011-0010.json,KR4d0466-WYG-f011-0010_3,橋始事,0.6863625400024035
+INSCR-KR4d0466-WYG-f011-0010_04,落成,INSCR-KR4d0466-WYG-f011-0010.json,KR4d0466-WYG-f011-0010_4,橋落成,0.7078558509352899
+INSCR-KR4d0466-WYG-f011-0010_05,橋始復,INSCR-KR4d0466-WYG-f011-0010.json,KR4d0466-WYG-f011-0010_3,橋始事,0.4102210826621304
+SPSP192506121501_01,天津扶輪社電上海扶輪社日前接天津扶輪社來電略謂天津扶輪社同人敬以同氣之誼致候上海扶輪社諸君並貢其對於目今風潮之同情,annotations_enc_rotary_cmn_SPSP192506121501.json,SPSP192506121501_1,天津扶輪社電上海扶輪社,0.7603790381653152
+SPSP192506121501_02,該社當即擬覆略謂敬問起居卓見深合私衷同人等正盡力重建相尊相信之原則,annotations_enc_rotary_cmn_SPSP192506121501.json,SPSP192506121501_1,天津扶輪社電上海扶輪社,0.02290295366733415
+SPSP193109022001_01,扶輪社明日聚餐會上海扶輪社本星期四午間十二時三十分、在老卡爾登舉行聚餐會,annotations_enc_rotary_cmn_SPSP193109022001.json,SPSP193109022001_1,上海扶輪社舉行聚餐會,0.5548620380428613
+SPSP193109022001_02,請安德魯博士演講最近探險蒙古沙漠情形,annotations_enc_rotary_cmn_SPSP193109022001.json,SPSP192708311019_2,黃倩儀受碩士銜,0.026274732333591563
+TW_001,"Feb. 25 (CNA) President Chen Shui-bian presided over a ceremony Wednesday in Puli township, central Nantou County to kick off construction of the Nantou section of the National Expressway No. 6.",po_en_1669.json,po_en_1669_1,President Chen Shui-bian presided over a ceremony to kick off construction of the Nantou section,0.8449282078650422
+TW_002,"Meeting the delegation at the Presidential Building, Vice President Siew extended a warm welcome to the visitors on behalf of the ROC government.",po_en_1.json,po_en_1_1,Vice President Vincent C. Siew met with the Indonesian delegation,0.6783400396881937
+TW_003,"Over the years, the conference has served as an important mechanism and bridge between the private and official sectors in and",po_en_1.json,1319843498_3,social evening hearts drive and dance will be held in the Municipal Service Club,0.5884981062662805
+po_zh_2376_00,有關今（二十七）日「中時晚報」及「勁報」報導「總統府公務車撞六車傷五人」乙事，因與事實不符，總統府公共事務室特此澄清。,structure_example_TW_po_zh_2376.json,po_zh_2376_1,中時晚報及勁報報導總統府公務車撞六車傷五人,0.5060139923362256
+po_zh_2376_01,今天上午在台北市羅斯福路所發生疑似暴衝之連環車禍,structure_example_TW_po_zh_2376.json,po_zh_2376_2,台北市羅斯福路發生疑似暴衝之連環車禍,0.7920590185525656
+po_zh_8342_00,陳總統水扁先生今天下午前往南投縣埔里鎮參加國道六號南投段開工動土典禮，並應邀致詞。,structure_example_TW_po_zh_8342_ZC.json,po_zh_8342_1,陳總統水扁先生前往南投縣埔里鎮參加國道六號南投段開工動土典禮,0.8050391475811857
+po_zh_8342_01,今天阿扁非常高興到南投埔里，來參加「新十大建設」在中部地區最重大工程之一：「國道六號南投段」的開工典禮。,structure_example_TW_po_zh_8342_ZC.json,po_zh_8342_1,陳總統水扁先生前往南投縣埔里鎮參加國道六號南投段開工動土典禮,0.2834549574391114
+po_zh_8342_02,當年政府開發中部橫貫公路,structure_example_TW_po_zh_8342_ZC.json,po_zh_8342_2,第二高速公路全線通車,0.07081866167781967
+po_zh_8342_03,隨著「第二高速公路」於今年1月全線通車,structure_example_TW_po_zh_8342_ZC.json,po_zh_8342_2,第二高速公路全線通車,0.5812644837654888
+po_zh_8342_04,十二條「東西向快速道路」、「西濱快速公路」，以及「高速鐵路」於明年十月開始營運通車,structure_example_TW_po_zh_8342_ZC.json,po_zh_8342_3,高速鐵路開始營運通車,0.38766990140572166
+po_zh_8342_05,過去半年以來，股市與房市不斷加溫,structure_example_TW_po_zh_8342_ZC.json,po_zh_2376_2,台北市羅斯福路發生疑似暴衝之連環車禍,0.034662367095025085
+po_zh_8342_06,在開工今天，祝福我們國道工程一切順利,structure_example_TW_po_zh_8342_ZC.json,po_zh_8342_1,陳總統水扁先生前往南投縣埔里鎮參加國道六號南投段開工動土典禮,0.07134663748670812
