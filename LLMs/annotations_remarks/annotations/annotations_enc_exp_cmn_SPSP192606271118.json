@@ -1,0 +1,185 @@
+{
+    "topic_record": {
+        "sources": [
+            [
+                "/ENC/exp/cmn/SPSP192606271118.txt",
+                "1926-06-27"
+            ]
+        ],
+        "events": [
+            {
+                "event_id": "SPSP192606271118_01",
+                "event_name": "前在北京清華學校肄業八年",
+                "event_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192606271118.txt",
+                        "time_related_expr": [
+                            "八年"
+                        ],
+                        "position_in_text": [
+                            33
+                        ]
+                    }
+                ],
+                "time_start": null,
+                "time_end": null,
+                "range": [
+                    [
+                        "years",
+                        8
+                    ],
+                    [
+                        "years",
+                        8
+                    ]
+                ]
+            },
+            {
+                "event_id": "SPSP192606271118_02",
+                "event_name": "民國十三年八月以清華官學生出洋入美國俄伯靈大學經濟銀行科",
+                "event_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192606271118.txt",
+                        "time_related_expr": [
+                            "民國十三年八月"
+                        ],
+                        "position_in_text": [
+                            66
+                        ]
+                    }
+                ],
+                "time_start": [
+                    "1924-08",
+                    "1924-08"
+                ],
+                "time_end": null,
+                "range": null
+            },
+            {
+                "event_id": "SPSP192606271118_03",
+                "event_name": "該省留學生會舉爲會長",
+                "event_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192606271118.txt",
+                        "time_related_expr": [],
+                        "position_in_text": []
+                    }
+                ],
+                "time_start": null,
+                "time_end": null,
+                "range": null
+            },
+            {
+                "event_id": "SPSP192606271118_04",
+                "event_name": "十五年二月以第一名畢業獲學士位",
+                "event_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192606271118.txt",
+                        "time_related_expr": [
+                            "十五年二月"
+                        ],
+                        "position_in_text": [
+                            104
+                        ]
+                    }
+                ],
+                "time_start": [
+                    "1926-02",
+                    "1926-02"
+                ],
+                "time_end": null,
+                "range": null
+            },
+            {
+                "event_id": "SPSP192606271118_05",
+                "event_name": "改入芝加哥大學",
+                "event_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192606271118.txt",
+                        "time_related_expr": [],
+                        "position_in_text": []
+                    }
+                ],
+                "time_start": null,
+                "time_end": null,
+                "range": null
+            },
+            {
+                "event_id": "SPSP192606271118_06",
+                "event_name": "不日學成歸國",
+                "event_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192606271118.txt",
+                        "time_related_expr": [
+                            "不日"
+                        ],
+                        "position_in_text": [
+                            151
+                        ]
+                    }
+                ],
+                "time_start": null,
+                "time_end": null,
+                "range": null
+            }
+        ],
+        "event_relations": [
+            {
+                "relation_id": "SPSP192606271118_01_SPSP192606271118_02",
+                "event_idA": "SPSP192606271118_01",
+                "event_idB": "SPSP192606271118_02",
+                "relation_type": "before",
+                "span_between": null,
+                "relation_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192606271118.txt",
+                        "time_related_expr": [],
+                        "position_in_text": []
+                    }
+                ]
+            },
+            {
+                "relation_id": "SPSP192606271118_02_SPSP192606271118_03",
+                "event_idA": "SPSP192606271118_02",
+                "event_idB": "SPSP192606271118_03",
+                "relation_type": "before",
+                "span_between": null,
+                "relation_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192606271118.txt",
+                        "time_related_expr": [],
+                        "position_in_text": []
+                    }
+                ]
+            },
+            {
+                "relation_id": "SPSP192606271118_04_SPSP192606271118_05",
+                "event_idA": "SPSP192606271118_04",
+                "event_idB": "SPSP192606271118_05",
+                "relation_type": "before",
+                "span_between": null,
+                "relation_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192606271118.txt",
+                        "time_related_expr": [],
+                        "position_in_text": []
+                    }
+                ]
+            },
+            {
+                "relation_id": "SPSP192606271118_05_SPSP192606271118_06",
+                "event_idA": "SPSP192606271118_05",
+                "event_idB": "SPSP192606271118_06",
+                "relation_type": "before",
+                "span_between": null,
+                "relation_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192606271118.txt",
+                        "time_related_expr": [],
+                        "position_in_text": []
+                    }
+                ]
+            }
+        ]
+    }
+}

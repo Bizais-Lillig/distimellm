@@ -1,0 +1,241 @@
+{
+    "ENC/rotary/eng":{
+    "sources": [
+      ["1319843498.txt", "1919-11-15"]
+    ],
+    "events":
+    [
+     {"event_id": "1319843498_01",
+        "event_name": "120 women enrolled in a ten-day course of lectures in Shanghai",
+        "event_sources": [
+          {
+            "filename": "1319843498.txt",
+            "time_related_expr": ["last week"],
+            "position_in_text": [319]
+          }
+        ],
+        "time_start": ["last week", "last week"],
+        "time_end": null,
+        "range": [["days", 10], ["days", 10]]
+     },
+     {"event_id": "1319843498_02",
+        "event_name": "Jean Alvalyn born to Mr and Mrs Cannon at Foochow, China",
+        "event_sources": [
+          {
+            "filename": "1319843498.txt",
+            "time_related_expr": ["November 6"],
+            "position_in_text": [2941]
+          }
+        ],
+        "time_start": ["XXXX-11-06", "XXXX-11-06"],
+        "time_end": null,
+        "range": null
+    },
+    {"event_id": "1319843498_03",
+        "event_name": "Social evening, hearts drive and dance at the Municipal Service Club",
+        "event_sources": [
+          {
+            "filename": "1319843498.txt",
+            "time_related_expr": ["Friday November 14"],
+            "position_in_text": [3090]
+          }
+        ],
+        "time_start": ["XXXX-11-14", "XXXX-11-14"],
+        "time_end": null,
+        "range": [["evening", 1], ["evening", 1]]
+    },
+    {"event_id": "1319843498_04",
+        "event_name": "Mrs George Fryer at home to friends at No 4 Edinburgh Road, Shanghai",
+        "event_sources": [
+          {
+            "filename": "1319843498.txt",
+            "time_related_expr": ["the second and third Fridays November 14 and 21 from 4 to 6"],
+            "position_in_text": [3197]
+          }
+        ],
+        "time_start": ["XXXX-11-14T16:XX", "XXXX-11-14T16:XX"],
+        "time_end": ["XXXX-11-14T18:XX", "XXXX-11-14T18:XX"],
+        "range": null
+    },
+    {"event_id": "1319843498_05",
+        "event_name": "Mrs George Fryer at home to friends at No 4 Edinburgh Road, Shanghai",
+        "event_sources": [
+          {
+            "filename": "1319843498.txt",
+            "time_related_expr": ["the second and third Fridays November 14 and 21 from 4 to 6"],
+            "position_in_text": [3197]
+          }
+        ],
+        "time_start": ["XXXX-11-21T16:XX", "XXXX-11-21T16:XX"],
+        "time_end": ["XXXX-11-21T18:XX", "XXXX-11-21T18:XX"],
+        "range": null
+    },
+    {"event_id":"1319843498_06" ,
+        "event_name": "Marriage of Dr Amy Metcalf and Capt Albert Bowen announced, Tours, France",
+        "event_sources": [
+          {
+            "filename": "1319843498.txt",
+            "time_related_expr": ["October 29"],
+            "position_in_text": [3426]
+          }
+        ],
+        "time_start": ["XXXX-10-29", "XXXX-10-29"],
+        "time_end": null,
+        "range": null
+    },
+    {"event_id": "1319843498_07",
+        "event_name": "Mrs Bowen left China for France",
+        "event_sources": [
+          {
+            "filename": "1319843498.txt",
+            "time_related_expr": ["in June"],
+            "position_in_text": [3459]
+          }
+        ],
+        "time_start": ["XXXX-06-XX", "XXXX-06-XX"],
+        "time_end": null,
+        "range": null
+    }, 
+    {"event_id": "1319843498_08",
+        "event_name": "Reception for parents given by faculty of the Shanghai American School",
+        "event_sources": [
+          {
+            "filename": "1319843498.txt",
+            "time_related_expr": ["Tuesday afternoon Novem ber xi"],
+            "position_in_text": [3890]
+          }
+        ],
+        "time_start": ["Tuesday afternoon XXXX-11-11", "Tuesday afternoon XXXX-11-11"],
+        "time_end": null,
+        "range": null
+    },
+    {"event_id": "1319843498_09",
+        "event_name": "Wedding of John Bristow and Miss Frances Helen Blair at Hankow, China",
+        "event_sources": [
+          {
+            "filename": "1319843498.txt",
+            "time_related_expr": ["No vember 2"],
+            "position_in_text": [4155]
+          }
+        ],
+        "time_start": ["XXXX-11-02", "XXXX-11-02"],
+        "time_end": null,
+        "range": null
+    },
+    {"event_id": "1319843498_10",
+        "event_name": "Couple departed on wedding trip to Chungking, planning to return to Shanghai",
+        "event_sources": [
+          {
+            "filename": "1319843498.txt",
+            "time_related_expr": ["in December"],
+            "position_in_text": [4510]
+          }
+        ],
+        "time_start": null,
+        "time_end": ["XXXX-12-XX", "XXXX-12-XX"],
+        "range": null
+    },
+    {"event_id": "1319843498_11" ,
+        "event_name": "Armistice celebration at the Shanghai Club",
+        "event_sources": [
+          {
+            "filename": "1319843498.txt",
+            "time_related_expr": ["Tuesday evening November 11"],
+            "position_in_text": [4698]
+          }
+        ],
+        "time_start": ["XXXX-11-11", "XXXX-11-11"],
+        "time_end": null,
+        "range": null
+    },
+
+    {"event_id": "1319843498_12",
+    "event_name": "Guests assembled in the banquet hall for supper",
+        "event_sources": [
+          {
+            "filename": "1319843498.txt",
+            "time_related_expr": ["About 12:30 o clock"],
+            "position_in_text": [5007]
+          }
+        ],
+        "time_start": ["XXXX-XX-XX-12-30", "XXXX-XX-XX-12-30"],
+        "time_end": null,
+        "range": null
+    }, 
+        {"event_id": "1319843498_13",
+        "event_name": "Vocal solos rendered in the ballroom during the supper hour",
+        "event_sources": [
+          {
+            "filename": "1319843498.txt",
+            "time_related_expr": ["During the supper hour"],
+            "position_in_text": [5092]
+          }
+        ],
+        "time_start": null,
+        "time_end": null,
+        "range": [["hour", 1], ["hour", 1]]
+    },
+    {"event_id": "1319843498_14",
+        "event_name": "American Woman's Club decides to hold an informal dinner for Navy officers and men",
+        "event_sources": [
+          {
+            "filename": "1319843498.txt",
+            "time_related_expr": ["during the winter season"],
+            "position_in_text": [5197]
+          },
+          {
+            "filename": "1319843498.txt",
+            "time_related_expr": ["Saturday evening November 8"],
+            "position_in_text": [5433]
+          }
+        ],
+        "time_start": ["Saturday XXXX-11-08", "Saturday XXXX-11-08"],
+        "time_end": null,
+        "range": null
+    },
+    {"event_id": "1319843498_15",
+    "event_name": "Dinner given by YangTcheng, Commissioner of Foreign Affairs, at the Naval Club",
+        "event_sources": [
+          {
+            "filename": "1319843498.txt",
+            "time_related_expr": ["Saturday evening November 8"],
+            "position_in_text": [5837]
+          }
+        ],
+        "time_start": ["Saturday XXXX-11-08", "Saturday XXXX-11-08"],
+        "time_end": null,
+        "range": null
+    }
+],
+    "event_relations":
+    [
+    {"relation_id": "1319843498_07+_+1319843498_06",
+        "event_idA":"1319843498_07",
+        "event_idB":"1319843498_06",
+        "relation_type": "before",
+        "span_between": null,
+        "relation_sources": []
+    },
+    {"relation_id": "event_idA+_+event_idB",
+        "event_idA":"1319843498_09",
+        "event_idB":"1319843498_10",
+        "relation_type" : "before",
+        "span_between": null,
+        "relation_sources": []
+    },
+    {"relation_id": "event_idA+_+event_idB",
+        "event_idA":"1319843498_12",
+        "event_idB":"1319843498_11",
+        "relation_type" : "during",
+        "span_between": null,
+        "relation_sources": [
+          {
+            "filename": "1319843498.txt",
+            "time_related_expr": ["During the supper hour"],
+            "position_in_text": [5092]
+          }
+        ]
+    }
+    ]
+    }
+}

@@ -1,0 +1,182 @@
+{
+  "topic_record": {
+    "sources": [
+      [
+        "KR4d0466-WYG-f011-0010",
+        null
+      ]
+    ],
+    "events": [
+      {
+        "event_id": "INSCR-KR4d0466-WYG-f011-0010_01",
+        "event_name": "燬焉／中厄於數",
+        "event_sources": [
+          {
+            "filename": "INSCR-KR4d0466-WYG-f011-0010",
+            "time_related_expr": [
+              "至元丙子",
+              "丙子"
+            ],
+            "position_in_text": [
+              40,
+              190
+            ]
+          }
+        ],
+        "time_start": [
+          "至元丙子",
+          "至元丙子"
+        ],
+        "time_end": [
+          "至元丙子",
+          "至元丙子"
+        ],
+        "range": null
+      },
+      {
+        "event_id": "INSCR-KR4d0466-WYG-f011-0010_02",
+        "event_name": "度材鳩工",
+        "event_sources": [
+          {
+            "filename": "INSCR-KR4d0466-WYG-f011-0010",
+            "time_related_expr": [
+              "壬辰六月"
+            ],
+            "position_in_text": [
+              53
+            ]
+          }
+        ],
+        "time_start": [
+          "壬辰六月",
+          "壬辰六月"
+        ],
+        "time_end": [
+          "壬辰六月",
+          "壬辰六月"
+        ],
+        "range": null
+      },
+      {
+        "event_id": "INSCR-KR4d0466-WYG-f011-0010_03",
+        "event_name": "始事",
+        "event_sources": [
+          {
+            "filename": "INSCR-KR4d0466-WYG-f011-0010",
+            "time_related_expr": [
+              "癸已十一月"
+            ],
+            "position_in_text": [
+              78
+            ]
+          }
+        ],
+        "time_start": [
+          "癸已十一月",
+          "癸已十一月"
+        ],
+        "time_end": [
+          "癸已十一月",
+          "癸已十一月"
+        ],
+        "range": null
+      },
+      {
+        "event_id": "INSCR-KR4d0466-WYG-f011-0010_04",
+        "event_name": "落成",
+        "event_sources": [
+          {
+            "filename": "INSCR-KR4d0466-WYG-f011-0010",
+            "time_related_expr": [
+              "越明年七月",
+              "成之日",
+              "聖天子龍飛之始"
+            ],
+            "position_in_text": [
+              85,
+              123,
+              128
+            ]
+          }
+        ],
+        "time_start": [
+          "越明年七月",
+          "越明年七月"
+        ],
+        "time_end": [
+          "越明年七月",
+          "越明年七月"
+        ],
+        "range": null
+      },
+      {
+        "event_id": "INSCR-KR4d0466-WYG-f011-0010_05",
+        "event_name": "橋始復",
+        "event_sources": [
+          {
+            "filename": "INSCR-KR4d0466-WYG-f011-0010",
+            "time_related_expr": [
+              "甲午"
+            ],
+            "position_in_text": [
+              193
+            ]
+          }
+        ],
+        "time_start": [
+          "甲午",
+          "甲午"
+        ],
+        "time_end": [
+          "甲午",
+          "甲午"
+        ],
+        "range": null
+      }
+    ],
+    "event_relations": [
+      {
+        "relation_id": "INSCR-KR4d0466-WYG-f011-0010_02_INSCR-KR4d0466-WYG-f011-0010_03",
+        "event_idA": "INSCR-KR4d0466-WYG-f011-0010_02",
+        "event_idB": "INSCR-KR4d0466-WYG-f011-0010_03",
+        "relation_type": "before",
+        "span_between": null,
+        "relation_sources": [
+          {
+            "filename": "INSCR-KR4d0466-WYG-f011-0010",
+            "time_related_expr": [
+              "壬辰六月",
+              "癸已十一月"
+            ],
+            "position_in_text": [
+              53,
+              78
+            ]
+          }
+        ]
+      },
+      {
+        "relation_id": "INSCR-KR4d0466-WYG-f011-0010_01_INSCR-KR4d0466-WYG-f011-0010_05",
+        "event_idA": "INSCR-KR4d0466-WYG-f011-0010_01",
+        "event_idB": "INSCR-KR4d0466-WYG-f011-0010_05",
+        "relation_type": "before",
+        "span_between": "幾二十年",
+        "relation_sources": [
+          {
+            "filename": "INSCR-KR4d0466-WYG-f011-0010",
+            "time_related_expr": [
+              "丙子",
+              "甲午",
+              "幾二十年"
+            ],
+            "position_in_text": [
+              190,
+              193,
+              195
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

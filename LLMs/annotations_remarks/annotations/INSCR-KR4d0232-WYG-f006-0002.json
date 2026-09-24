@@ -1,0 +1,109 @@
+{
+  "topic_record": {
+    "sources": [
+      [
+        "KR4d0232-WYG-f006-0002",
+        null
+      ]
+    ],
+    "events": [
+      {
+        "event_id": "INSCR-KR4d0232-WYG-f006-0002_01",
+        "event_name": "始作浮梁",
+        "event_sources": [
+          {
+            "filename": "INSCR-KR4d0232-WYG-f006-0002",
+            "time_related_expr": [
+              "乾道初元"
+            ],
+            "position_in_text": [
+              6
+            ]
+          }
+        ],
+        "time_start": [
+          "乾道初元",
+          "乾道初元"
+        ],
+        "time_end": [
+          "乾道初元",
+          "乾道初元"
+        ],
+        "range": null
+      },
+      {
+        "event_id": "INSCR-KR4d0232-WYG-f006-0002_02",
+        "event_name": "漂航斷笮／橋毁",
+        "event_sources": [
+          {
+            "filename": "INSCR-KR4d0232-WYG-f006-0002",
+            "time_related_expr": [
+              "淳熈二年秋七月"
+            ],
+            "position_in_text": [
+              24
+            ]
+          }
+        ],
+        "time_start": [
+          "淳熈二年秋七月",
+          "淳熈二年秋七月"
+        ],
+        "time_end": [
+          "淳熈二年秋七月",
+          "淳熈二年秋七月"
+        ],
+        "range": null
+      },
+      {
+        "event_id": "INSCR-KR4d0232-WYG-f006-0002_03",
+        "event_name": "造端",
+        "event_sources": [
+          {
+            "filename": "INSCR-KR4d0232-WYG-f006-0002",
+            "time_related_expr": [
+              "十月戊寅"
+            ],
+            "position_in_text": [
+              79
+            ]
+          }
+        ],
+        "time_start": [
+          "十月戊寅",
+          "十月戊寅"
+        ],
+        "time_end": [
+          "十月戊寅",
+          "十月戊寅"
+        ],
+        "range": null
+      },
+      {
+        "event_id": "INSCR-KR4d0232-WYG-f006-0002_04",
+        "event_name": "告具",
+        "event_sources": [
+          {
+            "filename": "INSCR-KR4d0232-WYG-f006-0002",
+            "time_related_expr": [
+              "十一月丁丑"
+            ],
+            "position_in_text": [
+              86
+            ]
+          }
+        ],
+        "time_start": [
+          "十一月丁丑",
+          "十一月丁丑"
+        ],
+        "time_end": [
+          "十一月丁丑",
+          "十一月丁丑"
+        ],
+        "range": null
+      }
+    ],
+    "event_relations": []
+  }
+}

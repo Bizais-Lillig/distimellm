@@ -1,0 +1,347 @@
+{
+    "topic_record": {
+        "sources": [
+            [
+                "/ENC/exp/cmn/SPSP192708311019.txt",
+                "1927-08-31"
+            ]
+        ],
+        "events": [
+            {
+                "event_id": "SPSP192708311019_01",
+                "event_name": "初肄業於中西女塾",
+                "event_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+                        "time_related_expr": [],
+                        "position_in_text": []
+                    }
+                ],
+                "time_start": null,
+                "time_end": null,
+                "range": null
+            },
+            {
+                "event_id": "SPSP192708311019_02",
+                "event_name": "一九二一年考入清華官費出洋抵美",
+                "event_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+                        "time_related_expr": [
+                            "一九二一年"
+                        ],
+                        "position_in_text": [
+                            45
+                        ]
+                    }
+                ],
+                "time_start": [
+                    "1921",
+                    "1921"
+                ],
+                "time_end": null,
+                "range": null
+            },
+            {
+                "event_id": "SPSP192708311019_03",
+                "event_name": "攻讀敎育管理專科三年卒業於芝加哥大學",
+                "event_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+                        "time_related_expr": [
+                            "三年"
+                        ],
+                        "position_in_text": [
+                            69
+                        ]
+                    }
+                ],
+                "time_start": null,
+                "time_end": null,
+                "range": [
+                    [
+                        "years",
+                        3
+                    ],
+                    [
+                        "years",
+                        3
+                    ]
+                ]
+            },
+            {
+                "event_id": "SPSP192708311019_04",
+                "event_name": "旋卽實習敎務於該大學高中部一季",
+                "event_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+                        "time_related_expr": [
+                            "一季"
+                        ],
+                        "position_in_text": [
+                            92
+                        ]
+                    }
+                ],
+                "time_start": null,
+                "time_end": null,
+                "range": [
+                    [
+                        "season",
+                        1
+                    ],
+                    [
+                        "season",
+                        1
+                    ]
+                ]
+            },
+            {
+                "event_id": "SPSP192708311019_05",
+                "event_name": "後又入哥侖比大學高級師範學府一九二五年受碩士銜",
+                "event_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+                        "time_related_expr": [
+                            "一九二五年"
+                        ],
+                        "position_in_text": [
+                            108
+                        ]
+                    }
+                ],
+                "time_start": [
+                    "1925",
+                    "1925"
+                ],
+                "time_end": null,
+                "range": null
+            },
+            {
+                "event_id": "SPSP192708311019_06",
+                "event_name": "已於今夏七月間取道歐洲藉以考查各國敎育狀况後始行回國",
+                "event_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+                        "time_related_expr": [
+                            "今夏七月間"
+                        ],
+                        "position_in_text": [
+                            173
+                        ]
+                    }
+                ],
+                "time_start": [
+                    "1927-07",
+                    "1927-07"
+                ],
+                "time_end": null,
+                "range": null
+            },
+            {
+                "event_id": "SPSP192708311019_07",
+                "event_name": "偕其四妹倩鴻女士倡辦一黃氏女子學社於赫德路六十號",
+                "event_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+                        "time_related_expr": [],
+                        "position_in_text": []
+                    }
+                ],
+                "time_start": null,
+                "time_end": null,
+                "range": null
+            },
+            {
+                "event_id": "SPSP192708311019_08",
+                "event_name": "倩鴻女士亦爲中西女塾高材生一九二一年赴美留學",
+                "event_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+                        "time_related_expr": [
+                            "一九二一年"
+                        ],
+                        "position_in_text": [
+                            271
+                        ]
+                    }
+                ],
+                "time_start": [
+                    "1921",
+                    "1921"
+                ],
+                "time_end": null,
+                "range": null
+            },
+            {
+                "event_id": "SPSP192708311019_09",
+                "event_name": "卒業於新英倫音樂專科學院",
+                "event_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+                        "time_related_expr": [],
+                        "position_in_text": []
+                    }
+                ],
+                "time_start": null,
+                "time_end": null,
+                "range": null
+            },
+            {
+                "event_id": "SPSP192708311019_10",
+                "event_name": "一九二六年春季回國現執音樂敎鞭於中西女塾母校",
+                "event_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+                        "time_related_expr": [
+                            "一九二六年春季"
+                        ],
+                        "position_in_text": [
+                            292
+                        ]
+                    }
+                ],
+                "time_start": [
+                    "1926-SP",
+                    "1926-SP"
+                ],
+                "time_end": null,
+                "range": null
+            }
+        ],
+        "event_relations": [
+            {
+                "relation_id": "SPSP192708311019_01_SPSP192708311019_02",
+                "event_idA": "SPSP192708311019_01",
+                "event_idB": "SPSP192708311019_02",
+                "relation_type": "before",
+                "span_between": null,
+                "relation_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+                        "time_related_expr": [
+                            "初"
+                        ],
+                        "position_in_text": [
+                            37
+                        ]
+                    }
+                ]
+            },
+            {
+                "relation_id": "SPSP192708311019_02_SPSP192708311019_03",
+                "event_idA": "SPSP192708311019_02",
+                "event_idB": "SPSP192708311019_03",
+                "relation_type": "before",
+                "span_between": null,
+                "relation_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+                        "time_related_expr": [
+                            "後"
+                        ],
+                        "position_in_text": [
+                            60
+                        ]
+                    }
+                ]
+            },
+            {
+                "relation_id": "SPSP192708311019_03_SPSP192708311019_04",
+                "event_idA": "SPSP192708311019_03",
+                "event_idB": "SPSP192708311019_04",
+                "relation_type": "before",
+                "span_between": null,
+                "relation_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+                        "time_related_expr": [
+                            "旋卽"
+                        ],
+                        "position_in_text": [
+                            79
+                        ]
+                    }
+                ]
+            },
+            {
+                "relation_id": "SPSP192708311019_04_SPSP192708311019_05",
+                "event_idA": "SPSP192708311019_04",
+                "event_idB": "SPSP192708311019_05",
+                "relation_type": "before",
+                "span_between": null,
+                "relation_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+                        "time_related_expr": [
+                            "後又"
+                        ],
+                        "position_in_text": [
+                            94
+                        ]
+                    }
+                ]
+            },
+            {
+                "relation_id": "SPSP192708311019_06_SPSP192708311019_07",
+                "event_idA": "SPSP192708311019_06",
+                "event_idB": "SPSP192708311019_07",
+                "relation_type": "before",
+                "span_between": null,
+                "relation_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+                        "time_related_expr": [
+                            "歸國後"
+                        ],
+                        "position_in_text": [
+                            199
+                        ]
+                    }
+                ]
+            },
+            {
+                "relation_id": "SPSP192708311019_08_SPSP192708311019_07",
+                "event_idA": "SPSP192708311019_08",
+                "event_idB": "SPSP192708311019_07",
+                "relation_type": "before",
+                "span_between": null,
+                "relation_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+                        "time_related_expr": [],
+                        "position_in_text": []
+                    }
+                ]
+            },
+            {
+                "relation_id": "SPSP192708311019_08_SPSP192708311019_09",
+                "event_idA": "SPSP192708311019_08",
+                "event_idB": "SPSP192708311019_09",
+                "relation_type": "before",
+                "span_between": null,
+                "relation_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+                        "time_related_expr": [],
+                        "position_in_text": []
+                    }
+                ]
+            },
+            {
+                "relation_id": "SPSP192708311019_09_SPSP192708311019_10",
+                "event_idA": "SPSP192708311019_09",
+                "event_idB": "SPSP192708311019_10",
+                "relation_type": "before",
+                "span_between": null,
+                "relation_sources": [
+                    {
+                        "filename": "/ENC/exp/cmn/SPSP192708311019.txt",
+                        "time_related_expr": [],
+                        "position_in_text": []
+                    }
+                ]
+            }
+        ]
+    }
+}
