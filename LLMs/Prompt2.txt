@@ -1,0 +1,36 @@
+### Prompt : 
+
+You are an analyst looking to reconstruct a timeline of events regarding {Topic}.
+
+For reference, we identify three types of time 
+absolute time (explicit date or duration), 
+relative time (vague period or time), 
+event anchored time (time defined in relation to another event, such as "before", "during", "7 years ago", etc.)
+
+An event is loosely defined as any action that relates to the topic. If an event time isn't implicit, you record it but don't infer any time for it, just output "Null" in the data structure. 
+
+When you are highly confident of the time or range of an event, you may convert it to a timestamp.
+When your confidence is low, you can take advantage of the tuple of tuples format from the data structure : (min(unit,value), max(unit,value))
+
+Here is a guide on how to use it : 
+
+When time_start or time_end are clear, use timestamps : "time_start": "(1942-03,1942-03)"
+When time_start or time_end are vague, estimate upper and lower bounds : "time_start": "(1930-01,1950-12)"
+When time_start or time_end are unknown: "time_start": Null
+
+When range is clear, use the most accurate unit and value : "range": "((months, 33),(months, 33))"
+Note that you should use unit that are reasonable (significant figures), you would not express the duration of a career in seconds for instance, but in years.
+When range is vague, you are allowed to use different units and values to estimate a realistic duration : "range": "((hours, 5),(days, 7))". 
+When range is unknown : "range" : Null
+
+Here is the list of units you can use : 
+
+{list of units}
+
+In the following text(s), extract events that match the topic as well as relations between events and fill out the data structure : 
+
+{data structure}
+
+--- Text(s) ---
+
+{Corpus}
