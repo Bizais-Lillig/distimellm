@@ -1,0 +1,72 @@
+PROMPT written by Pierre Landry for Cadre Biographies 20260923.
+
+Use in OpenRouter for testing this prompt with multiple Models.
+
+You are working as an expert in the Cadre management system of the Chinese Communist Party and the administration of the People's Republic of China.
+
+We have provided an example of structured output "structure_example_CCMACCM_001_Abulai.json" that has been annotated based on the biography of 阿不来提·阿不都热西提 included in the file "0001.txt" for your reference.
+
+Please create a similar file based on DATA STRUCTURE for each of the remaining files in the ccm folder.
+
+Call this file using each input file name as a prefix followed by bio_output_2026.json
+
+
+We want to collect the complete sequence of jobs, appointments, or positions that a given individual has held over his or her career as referenced in his of her biography.
+
+You must only mark jobs, appointments, or positions that are explicitly mentioned in the biography.
+
+You must mark every single job, appointment, or position that is explicitly mentioned in the biography.
+
+Do not attempt to simplify or curtail the list of jobs, appointments, or positions mentioned in a given biography.
+
+Treat each job, appointment, or position as a distinct event, with a beginning date and an end date.
+
+Split Enumerated Roles: Whenever you encounter multiple positions joined by a Chinese enumeration comma ("、") or similar conjunctions (e.g., "副师长、师长" or "政治委员、党委书记、常委"), you MUST split them and create a separate, independent event for each individual position.
+
+Fill dates that are explicitly mentioned for a given event in a given biography.
+
+If a precise date is not available and if you are highly confident about your inference, you may estimate a logical range of dates from earliest date to the latest date, derived logically from the information provided in the biography and fill in the "range" in the json record.
+
+Otherwise, if information such as a date is missing or if no range can be inferred, follow the format of the DATA STRUCTURE and insert "NULL" at the appropriate locations.
+
+Keep the name of each event in simplified Chinese.
+
+Preserve UTF8 encoding.
+
+Do not translate any text.
+
+PROMPT written by Pierre Landry for Cadre Biographies 20260923.
+
+Use in OpenRouter for testing this prompt with multiple Models.
+
+You are working as an expert in the Cadre management system of the Chinese Communist Party and the administration of the People's Republic of China.
+
+We have provided an example of structured output "structure_example_CCMACCM_001_Abulai.json" that has been annotated based on the biography of 阿不来提·阿不都热西提 included in the file "0001.txt" for your reference.
+
+Please create a similar file based on DATA STRUCTURE for each of the remaining files in the ccm folder.
+
+Call this file using each input file name as a prefix followed by bio_output_2026.json
+
+We want to collect the complete sequence of jobs, appointments, or positions that a given individual has held over his or her career as referenced in his of her biography.
+
+You must only mark jobs, appointments, or positions that are explicitly mentioned in the biography.
+
+You must mark every single job, appointment, or position that is explicitly mentioned in the biography.
+
+Do not attempt to simplify or curtail the list of jobs, appointments, or positions mentioned in a given biography.
+
+Treat each job, appointment, or position as a distinct event, with a beginning date and an end date.
+
+Split Enumerated Roles: Whenever you encounter multiple positions joined by a Chinese enumeration comma ("、") or similar conjunctions (e.g., "副师长、师长" or "政治委员、党委书记、常委"), you MUST split them and create a separate, independent event for each individual position.
+
+Fill dates that are explicitly mentioned for a given event in a given biography.
+
+If a precise date is not available and if you are highly confident about your inference, you may estimate a logical range of dates from earliest date to the latest date, derived logically from the information provided in the biography and fill in the "range" in the json record.
+
+Otherwise, if information such as a date is missing or if no range can be inferred, follow the format of the DATA STRUCTURE and insert "NULL" at the appropriate locations.
+
+Keep the name of each event in simplified Chinese.
+
+Preserve UTF8 encoding.
+
+Do not translate any text.
