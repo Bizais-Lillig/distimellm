@@ -1,23 +1,45 @@
 {
-    "Taiwan Presidential office":
+    "Presidential_activity":
     {
     "sources": [["./TW/po/eng/po_en_1669.txt", "2004-02-25"]],
     "events":
     [
-        {"event_id": "TW_001",
-        "event_name": "Feb. 25 (CNA) President Chen Shui-bian presided over a ceremony Wednesday in Puli township, central Nantou County to kick off construction of the Nantou section of the National Expressway No. 6.",
+        {"event_id": "activity_001",
+        "event_name": "President Chen Shui-bian presided over a ceremony",
         "event_sources": 
         [{"filename": "./TW/po/eng/po_en_1669.txt", 
         "time_related_expr": ["Feb. 25", "Wednesday"], 
         "position_in_text":  [8, 72]}
         ],
-        "time_start": "XXXX-02-25",
-        "time_end":  "Null",
-        "range": "Null"
+        "time_start": "(2004-02-25,2004-02-25)",
+        "time_end": "(2004-02-25,2004-02-25)",
+        "range": "((hours,1),(day,1))"
+        },
+        {"event_id": "activity_002",
+        "event_name": "Chen encouraged workers",
+        "event_sources": 
+        [{"filename": "./TW/po/eng/po_en_1669.txt", 
+        "time_related_expr": [], 
+        "position_in_text":  []}
+        ],
+        "time_start": "(2004-02-25,2004-02-25)",
+        "time_end": "(2004-02-25,2004-02-25)",
+        "range": "((minutes,5),(hours,3))"
         }
     ],
     "event_relations":
     [
+        {"relation_id": "activity_001_activity_002",
+        "event_idA":"activity_001",
+        "event_idB":"activity_002",
+        "relation_type": "during",
+        "span_between": 0,
+        "relation_sources":
+            [{"filename": "./TW/po/eng/po_en_1669.txt",
+            "time_related_expr":[],
+            "position_in_text":[]}        
+            ]
+    }
     ]
     }
 }
