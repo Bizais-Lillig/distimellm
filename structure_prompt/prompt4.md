@@ -1,8 +1,3 @@
-**Task 1 : extract events**
-
-
-3. V3 :
-
 SYSTEM_PROMPT = """
 CONTEXT: You are an annotator in a NLP research lab. Your job is to extract and annotate events in texts. 
 
